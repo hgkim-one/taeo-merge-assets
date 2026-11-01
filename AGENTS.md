@@ -11,10 +11,10 @@
 | 구분 | 대상 경로 | GitHub 저장소 | 공개 여부 | 용도 |
 | :--- | :--- | :--- | :--- | :--- |
 | **전체 워크스페이스** | `~/to_ai/` 전체 | `https://github.com/hgkim-one/to_ai.git` | 🔒 **Private (비공개)** | 전체 프로젝트 소스 및 히스토리 백업 |
-| **게임 전용 배포본** | `~/to_ai/taeo_game/` (게임 본체 및 `assets/`) | `https://github.com/hgkim-one/taeo-merge-assets.git` | 🌐 **Public (공개)** | GitHub Pages 직접 실행 및 Google Sites 에셋(`raw.githubusercontent.com`) 연동 |
+| **게임 전용 배포본** | `~/to_ai/taeo_game/` (게임 본체 및 `assets/`) | `https://github.com/hgkim-one/taeo-merge-assets.git` | 🌐 **Public (공개)** | GitHub Pages 직접 실행 및 에셋 호스팅 |
 
 - **GitHub Pages 실행 URL**: `https://hgkim-one.github.io/taeo-merge-assets/`
-- **Google Sites 연동 URL**: `https://sites.google.com/view/taeo-merge-evolution`
+- *(참고: 기존 테스트용 Google Sites 게시물은 삭제 완료되었으며, GitHub Pages 단일 주소로 운영합니다.)*
 
 ---
 
@@ -60,6 +60,5 @@ git -C C:\Users\honggu\to_ai commit -m "Update taeo_game"
 git -C C:\Users\honggu\to_ai push origin main
 ```
 
-### Step 4. Google Sites 업데이트 및 시각 검증
-- Google Sites(`https://sites.google.com/view/taeo-merge-evolution`)에 최신 `game.html` 소스 코드(235KB Gzip 번들) 또는 임베드 구성을 반영하고 **게시**합니다.
-- 배포 후 **모바일(`320x568`, `375x667`, `390x844`), 태블릿(`768x1024`, `1024x768`), 데스크탑(`1366x768`, `1920x1080`)** 뷰포트에서 레이아웃 깨짐(런처 모달 1열 카드 그리드, `8x8` 타일 배지, 스크롤 여부)과 실제 게임 실행을 시각적으로 검증합니다.
+### Step 4. GitHub Pages 라이브 시각 검증
+- 배포 후 `https://hgkim-one.github.io/taeo-merge-assets/`에서 **모바일(`320x568`, `375x667`, `390x844`), 태블릿(`768x1024`, `1024x768`), 데스크탑(`1366x768`, `1920x1080`)** 뷰포트의 레이아웃 깨짐 여부(런처 모달 1열 카드 그리드, `8x8` 타일 배지, 스크롤 여부)와 실제 게임 실행을 시각적으로 검증합니다.

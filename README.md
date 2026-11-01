@@ -6,8 +6,7 @@
 
 ## 실행 및 배포 경로
 
-- **GitHub Pages (직접 실행)**: <https://hgkim-one.github.io/taeo-merge-assets/>
-- **Google Sites**: <https://sites.google.com/view/taeo-merge-evolution>
+- **GitHub Pages (공식 실행 주소)**: <https://hgkim-one.github.io/taeo-merge-assets/>
 - **전용 공개 저장소 (Public, Noindex 설정됨)**: <https://github.com/hgkim-one/taeo-merge-assets>
 
 ## 폴더 구성
