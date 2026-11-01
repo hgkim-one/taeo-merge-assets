@@ -337,7 +337,7 @@
       font-size: 0.96rem;
       white-space: nowrap;
     }
-    .game-wrapper[data-compact="true"] .title-area p.subtitle {
+    .game-wrapper[data-compact="true"] .title-area p {
       display: none !important;
     }
     .game-wrapper[data-compact="true"] .mode-badge {
@@ -2560,7 +2560,7 @@
       const gapPx = cellPx < 44 ? 3 : (cellPx < 58 ? 5 : 7);
       gridBoardEl.style.setProperty('--cell-size', cellPx + 'px');
       gridBoardEl.style.gap = gapPx + 'px';
-      gridBoardEl.dataset.smallCell = cellPx < 44 ? 'true' : 'false';
+      gridBoardEl.dataset.smallCell = (cellPx < 72 || currentGridSize >= 7) ? 'true' : 'false';
 
       gridBoardEl.style.width = side + 'px';
       gridBoardEl.style.height = side + 'px';
