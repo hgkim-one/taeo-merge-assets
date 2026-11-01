@@ -886,11 +886,37 @@
 
     .theme-cards-grid {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
       gap: 10px;
     }
 
+    body[data-mobile="true"] .theme-cards-grid {
+      grid-template-columns: minmax(0, 1fr) !important;
+      gap: 8px;
+    }
+
+    @media (max-width: 600px) {
+      .theme-cards-grid {
+        grid-template-columns: minmax(0, 1fr) !important;
+        gap: 8px;
+      }
+      .modal-backdrop {
+        padding: 8px;
+        align-items: flex-start;
+        padding-top: 8px;
+      }
+      .modal-content {
+        padding: 14px 12px;
+        max-height: calc(100dvh - 16px);
+        border-radius: 16px;
+      }
+      .theme-card {
+        padding: 10px 12px;
+      }
+    }
+
     .theme-card {
+      min-width: 0;
       background: rgba(15, 23, 42, 0.7);
       border: 2px solid rgba(255, 255, 255, 0.08);
       border-radius: 14px;
@@ -901,6 +927,8 @@
       flex-direction: column;
       gap: 6px;
       position: relative;
+      overflow-wrap: anywhere;
+      word-break: keep-all;
     }
 
     .theme-card:hover {
@@ -2521,6 +2549,10 @@
       wrapper.dataset.compact = isCompact ? 'true' : 'false';
       wrapper.dataset.mobile = isMobilePortrait ? 'true' : 'false';
       wrapper.dataset.layout = isShortLandscape ? 'landscape' : 'portrait';
+      if (document.body) {
+        document.body.dataset.compact = isCompact ? 'true' : 'false';
+        document.body.dataset.mobile = isMobilePortrait ? 'true' : 'false';
+      }
 
       // Force synchronous style/layout reflow so offsetHeight reflects compact/mobile rules
       void wrapper.offsetHeight;
