@@ -9,7 +9,7 @@
     // Serve assets from dedicated GitHub repository (hgkim-one/taeo-merge-assets) when embedded
     if (location.protocol !== 'file:' && !location.hostname.includes('127.0.0.1') && !location.hostname.includes('localhost') && !location.hostname.includes('github.io')) {
       const baseEl = document.createElement('base');
-      baseEl.href = 'https://cdn.jsdelivr.net/gh/hgkim-one/taeo-merge-assets@main/';
+      baseEl.href = 'https://raw.githubusercontent.com/hgkim-one/taeo-merge-assets/main/';
       document.head.appendChild(baseEl);
     }
     const BLANK_GIF = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';

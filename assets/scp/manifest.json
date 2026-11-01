@@ -1,0 +1,3002 @@
+[
+  {
+    "level": 1,
+    "scp_id": "SCP-999",
+    "name": "간지럼 괴물",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 10,
+    "image": "assets/scp/lv_001.png",
+    "desc": "[일련번호: SCP-999 · 격리 등급: Safe] 만지는 모든 생명체에게 즉각적인 행복감과 다행증을 선사하는 땅콩버터 향의 주황색 반투명 슬라임 개체입니다."
+  },
+  {
+    "level": 2,
+    "scp_id": "SCP-131",
+    "name": "안구 포드",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 12,
+    "image": "assets/scp/lv_002.png",
+    "desc": "[일련번호: SCP-131 · 격리 등급: Safe] 바퀴로 굴러다니며 호기심 많고 우호적인 고양이처럼 행동하는 30cm 크기의 눈물방울 모양 외눈 기계 생물입니다."
+  },
+  {
+    "level": 3,
+    "scp_id": "SCP-529",
+    "name": "반쪽 고양이 조시",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 15,
+    "image": "assets/scp/lv_003.png",
+    "desc": "[일련번호: SCP-529 · 격리 등급: Safe] 하반신이 보이지 않는 차원으로 절단된 것처럼 보이지만 건강하게 걸어 다니며 치즈를 좋아하는 회색 얼룩고양이입니다."
+  },
+  {
+    "level": 4,
+    "scp_id": "SCP-500",
+    "name": "만병통치약",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 18,
+    "image": "assets/scp/lv_004.png",
+    "desc": "[일련번호: SCP-500 · 격리 등급: Safe] 복용 시 2시간 이내에 모든 질병과 변칙적 감염, 치명상을 완벽하게 완치하는 붉은색 알약입니다."
+  },
+  {
+    "level": 5,
+    "scp_id": "SCP-914",
+    "name": "태엽장치",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 22,
+    "image": "assets/scp/lv_005.png",
+    "desc": "[일련번호: SCP-914 · 격리 등급: Safe] 투입된 물질이나 생명체를 '굵게·거칠게·1:1·고운·매우 고운' 5단계 설정에 따라 변형·강화하는 거대한 태엽 기계입니다."
+  },
+  {
+    "level": 6,
+    "scp_id": "SCP-294",
+    "name": "커피 자판기",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 27,
+    "image": "assets/scp/lv_006.png",
+    "desc": "[일련번호: SCP-294 · 격리 등급: Safe] 쿼터 동전을 넣고 키패드에 입력한 어떠한 액체(존재하는 모든 물질과 추상적 개념의 액체까지)든 종이컵에 추출해 내는 자판기입니다."
+  },
+  {
+    "level": 7,
+    "scp_id": "SCP-085",
+    "name": "손그림 '캐시'",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 33,
+    "image": "assets/scp/lv_007.png",
+    "desc": "[일련번호: SCP-085 · 격리 등급: Safe] 종이 위에서만 살아 움직이며 다른 도면이나 그림 속 사물과 상호작용하고 필담으로 소통하는 지적 2D 소녀입니다."
+  },
+  {
+    "level": 8,
+    "scp_id": "SCP-1762",
+    "name": "드래곤들이 갔던 곳",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 40,
+    "image": "assets/scp/lv_008.png",
+    "desc": "[일련번호: SCP-1762 · 격리 등급: Safe] 골판지 상자 속에서 종이접기 드래곤들이 날아 나와 판타지 세계의 소식을 전해주던 슬프고도 아름다운 유산입니다."
+  },
+  {
+    "level": 9,
+    "scp_id": "SCP-2295",
+    "name": "누더기 심장을 가진 곰",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 49,
+    "image": "assets/scp/lv_009.png",
+    "desc": "[일련번호: SCP-2295 · 격리 등급: Safe] 다친 사람의 손상된 장기를 천과 솜으로 정성껏 꿰매어 실제로 기능하는 봉제 장기로 치유해 주는 곰인형입니다."
+  },
+  {
+    "level": 10,
+    "scp_id": "SCP-4999",
+    "name": "우리를 지켜보는 누군가",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 60,
+    "image": "assets/scp/lv_010.png",
+    "desc": "[일련번호: SCP-4999 · 격리 등급: Safe] 홀로 외롭게 임종을 맞이하는 사람 곁에 나타나 손을 잡아주고 담배를 권하며 마지막 순간을 위로해 주는 정장 차림의 존재입니다."
+  },
+  {
+    "level": 11,
+    "scp_id": "SCP-005",
+    "name": "만능 열쇠",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 73,
+    "image": "assets/scp/lv_011.png",
+    "desc": "[일련번호: SCP-005 · 격리 등급: Safe] 기계식 자물쇠부터 전자 도어락까지 세상의 모든 잠금장치를 열 수 있는 1920년대풍 화려한 금속 열쇠입니다."
+  },
+  {
+    "level": 12,
+    "scp_id": "SCP-006",
+    "name": "젊음의 샘",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 89,
+    "image": "assets/scp/lv_012.png",
+    "desc": "[일련번호: SCP-006 · 격리 등급: Safe] 마시는 즉시 세포 재생력과 면역력을 극대화하여 노화와 질병을 되돌리는 아스트라한 인근의 신비한 샘물입니다."
+  },
+  {
+    "level": 13,
+    "scp_id": "SCP-038",
+    "name": "만물의 나무",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 109,
+    "image": "assets/scp/lv_013.png",
+    "desc": "[일련번호: SCP-038 · 격리 등급: Safe] 나무껍질에 사물이나 생명체를 접촉시키면 수 분 내에 동일한 복제본이 열매처럼 자라나는 사과나무입니다."
+  },
+  {
+    "level": 14,
+    "scp_id": "SCP-063",
+    "name": "세계 최고의 칫솔",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 133,
+    "image": "assets/scp/lv_014.png",
+    "desc": "[일련번호: SCP-063 · 격리 등급: Safe] 치아의 플라그는 물론 세상의 모든 죽은 무기물과 불순물을 원자 단위로 분해해 닦아내는 플라스틱 칫솔입니다."
+  },
+  {
+    "level": 15,
+    "scp_id": "SCP-109",
+    "name": "무한 수통",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 162,
+    "image": "assets/scp/lv_015.png",
+    "desc": "[일련번호: SCP-109 · 격리 등급: Safe] 아무리 따라내도 내부의 물이 절대 줄어들지 않으며 마시면 활력과 전해질이 보충되는 미군 표준 주석 수통입니다."
+  },
+  {
+    "level": 16,
+    "scp_id": "SCP-120",
+    "name": "순간이동 풀장",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 197,
+    "image": "assets/scp/lv_016.png",
+    "desc": "[일련번호: SCP-120 · 격리 등급: Safe] 내부로 뛰어들면 지정된 전 세계 및 달·우주 좌표로 즉시 순간이동시켜 주는 파란색 유아용 플라스틱 풀장입니다."
+  },
+  {
+    "level": 17,
+    "scp_id": "SCP-148",
+    "name": "텔레킬 합금",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 241,
+    "image": "assets/scp/lv_017.png",
+    "desc": "[일련번호: SCP-148 · 격리 등급: Safe] 정신 조작, 텔레파시, 밈적 변칙 효과를 차단하고 반사하는 청회색 초밀도 금속 합금입니다."
+  },
+  {
+    "level": 18,
+    "scp_id": "SCP-168",
+    "name": "지각 있는 계산기",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 294,
+    "image": "assets/scp/lv_018.png",
+    "desc": "[일련번호: SCP-168 · 격리 등급: Safe] 화면 텍스트로 대화하며 스스로 움직이고 이름을 '에릭'이라 밝힌 고집불통 HP-28C 공학용 계산기입니다."
+  },
+  {
+    "level": 19,
+    "scp_id": "SCP-191",
+    "name": "사이보그 소녀",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 358,
+    "image": "assets/scp/lv_019.png",
+    "desc": "[일련번호: SCP-191 · 격리 등급: Safe] 미치광이 과학자에 의해 신체의 80%가 정밀 전자·기계 장치로 개조되어 모든 컴퓨터와 직접 통신하는 소녀입니다."
+  },
+  {
+    "level": 20,
+    "scp_id": "SCP-261",
+    "name": "범차원 자판기",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 437,
+    "image": "assets/scp/lv_020.png",
+    "desc": "[일련번호: SCP-261 · 격리 등급: Safe] 일본 엔화를 넣으면 평행우주와 외계 차원의 기상천외한 과자와 음료수를 무작위로 배출하는 자판기입니다."
+  },
+  {
+    "level": 21,
+    "scp_id": "SCP-348",
+    "name": "아버지의 선물",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 534,
+    "image": "assets/scp/lv_021.png",
+    "desc": "[일련번호: SCP-348 · 격리 등급: Safe] 아프거나 외로운 아이가 앞에 앉으면 따뜻한 국수가 저절로 채워지고 바닥에 아버지의 격려 메시지가 떠오르는 도자기 그릇입니다."
+  },
+  {
+    "level": 22,
+    "scp_id": "SCP-426",
+    "name": "나는 토스터이다",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 651,
+    "image": "assets/scp/lv_022.png",
+    "desc": "[일련번호: SCP-426 · 격리 등급: Safe] 누구든 나를 언급할 때 반드시 1인칭('나')으로만 지칭하게 만드는 강력한 밈적 현상을 지닌 평범한 토스터입니다."
+  },
+  {
+    "level": 23,
+    "scp_id": "SCP-458",
+    "name": "끝없는 피자 상자",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 794,
+    "image": "assets/scp/lv_023.png",
+    "desc": "[일련번호: SCP-458 · 격리 등급: Safe] 상자를 여는 사람이 가장 좋아하는 토핑과 크러스트의 따끈한 피자를 즉시 생성해 내는 리틀 시저스 피자 박스입니다."
+  },
+  {
+    "level": 24,
+    "scp_id": "SCP-504",
+    "name": "비평하는 토마토",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 969,
+    "image": "assets/scp/lv_024.png",
+    "desc": "[일련번호: SCP-504 · 격리 등급: Safe] 누군가 썰렁한 농담이나 아재 개그를 하면 음속을 돌파하는 속도로 날아가 발언자를 타격하는 평범한 토마토입니다."
+  },
+  {
+    "level": 25,
+    "scp_id": "SCP-662",
+    "name": "집사의 종",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 1182,
+    "image": "assets/scp/lv_025.png",
+    "desc": "[일련번호: SCP-662 · 격리 등급: Safe] 은종을 울리면 영국인 집사 '미스터 디즈'가 나타나 불가능에 가까운 심부름과 임무까지 완수해 주는 종입니다."
+  },
+  {
+    "level": 26,
+    "scp_id": "SCP-714",
+    "name": "피곤한 옥반지",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 1442,
+    "image": "assets/scp/lv_026.png",
+    "desc": "[일련번호: SCP-714 · 격리 등급: Safe] 착용하면 극심한 피로와 졸음이 몰려오는 대신 모든 정신 오염·밈적 공격·화학적 독성에 완벽한 저항력을 얻는 녹색 옥반지입니다."
+  },
+  {
+    "level": 27,
+    "scp_id": "SCP-826",
+    "name": "책 속으로 들어가다",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 1759,
+    "image": "assets/scp/lv_027.png",
+    "desc": "[일련번호: SCP-826 · 격리 등급: Safe] 두 개의 용 모양 북엔드 사이에 책을 끼워두면 방 전체가 그 책의 줄거리 속 실제 세계로 변환되는 유물입니다."
+  },
+  {
+    "level": 28,
+    "scp_id": "SCP-993",
+    "name": "삐에로 바블",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 2146,
+    "image": "assets/scp/lv_028.png",
+    "desc": "[일련번호: SCP-993 · 격리 등급: Safe] 10세 미만 어린이에게만 보이는 교육용 만화 방송으로, 아이들에게 해괴하고 위험한 지식을 친절하게 가르치는 프로그램입니다."
+  },
+  {
+    "level": 29,
+    "scp_id": "SCP-1230",
+    "name": "영웅이 탄생하다",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 2619,
+    "image": "assets/scp/lv_029.png",
+    "desc": "[일련번호: SCP-1230 · 격리 등급: Safe] 책을 펼치고 잠들면 '책지기'가 꿈속에서 최대 수십 년간의 환상적인 RPG 모험을 설계해 주는 초록색 양장본입니다."
+  },
+  {
+    "level": 30,
+    "scp_id": "SCP-1370",
+    "name": "성가신 봇",
+    "object_class": "Safe",
+    "series": "1단계: Safe 우호·기묘 개체 (Lv.1 ~ Lv.30)",
+    "points": 3195,
+    "image": "assets/scp/lv_030.png",
+    "desc": "[일련번호: SCP-1370 · 격리 등급: Safe] 스스로를 '파멸로봇 2000'이자 만물의 지배자라 칭하지만 전선 조각으로 묶여 넘어지기만 하는 15cm짜리 귀여운 로봇입니다."
+  },
+  {
+    "level": 31,
+    "scp_id": "SCP-012",
+    "name": "나쁜 작곡",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 3898,
+    "image": "assets/scp/lv_031.png",
+    "desc": "[일련번호: SCP-012 · 격리 등급: Safe] 인간의 피로 쓰인 미완성 악보로, 보는 이로 하여금 자신의 혈액으로 악보를 완성하려 들게 만드는 정신 오염 유물입니다."
+  },
+  {
+    "level": 32,
+    "scp_id": "SCP-028",
+    "name": "지식",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 4755,
+    "image": "assets/scp/lv_032.png",
+    "desc": "[일련번호: SCP-028 · 격리 등급: Safe] 특정 공간에 발을 들이는 순간 우주 어딘가의 완전무결한 전문 지식 하나가 뇌리에 통째로 각인되는 변칙 구역입니다."
+  },
+  {
+    "level": 33,
+    "scp_id": "SCP-034",
+    "name": "흑요석 의식용 단검",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 5801,
+    "image": "assets/scp/lv_033.png",
+    "desc": "[일련번호: SCP-034 · 격리 등급: Safe] 살아있는 대상의 살점을 조금 베어내어 이마에 대면 그 대상의 외형과 목소리로 완벽하게 변신하는 고대 흑요석 단검입니다."
+  },
+  {
+    "level": 34,
+    "scp_id": "SCP-042",
+    "name": "날개 달렸던 말",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 7077,
+    "image": "assets/scp/lv_034.png",
+    "desc": "[일련번호: SCP-042 · 격리 등급: Safe] 과거 등에 거대한 날개가 있었던 흔적이 남아있으며 하늘을 그리워하며 슬픔에 잠긴 불멸의 백마입니다."
+  },
+  {
+    "level": 35,
+    "scp_id": "SCP-066",
+    "name": "에릭의 장난감",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 8634,
+    "image": "assets/scp/lv_035.png",
+    "desc": "[일련번호: SCP-066 · 격리 등급: Safe] 붉은 털실과 눈알들이 엉킨 구체로, 가까이 다가가면 베토벤 교향곡 2번을 귀청이 터질 듯한 140데시벨로 연주합니다."
+  },
+  {
+    "level": 36,
+    "scp_id": "SCP-093",
+    "name": "붉은 바다의 물체",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 10534,
+    "image": "assets/scp/lv_036.png",
+    "desc": "[일련번호: SCP-093 · 격리 등급: Safe] 거울에 대고 통과하면 거대한 상반신만의 불결한 거인들이 배회하는 멸망한 평행세계로 이어지는 붉은 원반입니다."
+  },
+  {
+    "level": 37,
+    "scp_id": "SCP-113",
+    "name": "성전환석",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 12852,
+    "image": "assets/scp/lv_037.png",
+    "desc": "[일련번호: SCP-113 · 격리 등급: Safe] 만지는 생명체의 염색체와 생물학적 성별을 고통스러운 세포 재구성을 거쳐 완전히 반전시키는 붉은 벽옥 조각입니다."
+  },
+  {
+    "level": 38,
+    "scp_id": "SCP-143",
+    "name": "비늘잎 벚나무",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 15679,
+    "image": "assets/scp/lv_038.png",
+    "desc": "[일련번호: SCP-143 · 격리 등급: Safe] 다이아몬드보다 단단하고 면도날보다 예리한 분홍빛 금속성 꽃잎을 회오리바람처럼 흩날리는 변칙 벚나무 숲입니다."
+  },
+  {
+    "level": 39,
+    "scp_id": "SCP-178",
+    "name": "3-D 안경",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 19128,
+    "image": "assets/scp/lv_039.png",
+    "desc": "[일련번호: SCP-178 · 격리 등급: Safe] 착용하면 현실 공간 곳곳에 서식하는 거대하고 기괴한 다차원 포식 생물들이 선명하게 보이게 되는 종이 입체안경입니다."
+  },
+  {
+    "level": 40,
+    "scp_id": "SCP-184",
+    "name": "건축가",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 23336,
+    "image": "assets/scp/lv_040.png",
+    "desc": "[일련번호: SCP-184 · 격리 등급: Safe] 실내에 두면 건물 외벽 크기는 그대로인 채 내부 방과 복도를 무한히 증축·확장시키는 십이면체 금속 조각입니다."
+  },
+  {
+    "level": 41,
+    "scp_id": "SCP-209",
+    "name": "가학성애자의 잔",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 28470,
+    "image": "assets/scp/lv_041.png",
+    "desc": "[일련번호: SCP-209 · 격리 등급: Safe] 잔에 담긴 액체를 마시는 이는 천상의 황홀경을 느끼지만, 주변에서 가장 가까운 사람의 체액을 강제로 추출해 채워지는 유리잔입니다."
+  },
+  {
+    "level": 42,
+    "scp_id": "SCP-217",
+    "name": "시계태엽 바이러스",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 34734,
+    "image": "assets/scp/lv_042.png",
+    "desc": "[일련번호: SCP-217 · 격리 등급: Safe] 감염된 유기체의 살점과 장기를 황동 기어, 태엽, 파이프로 천천히 개조하여 완벽한 시계태엽 기계 생명체로 바꾸는 바이러스입니다."
+  },
+  {
+    "level": 43,
+    "scp_id": "SCP-268",
+    "name": "방관자의 모자",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 42375,
+    "image": "assets/scp/lv_043.png",
+    "desc": "[일련번호: SCP-268 · 격리 등급: Safe] 쓰는 즉시 주변 사람들이 착용자의 존재를 철저히 무시하고 기억조차 하지 못하게 만드는 트위드 헌팅캡입니다."
+  },
+  {
+    "level": 44,
+    "scp_id": "SCP-310",
+    "name": "영원한 불꽃",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 51698,
+    "image": "assets/scp/lv_044.png",
+    "desc": "[일련번호: SCP-310 · 격리 등급: Safe] 진공 상태나 물속에서도 절대 꺼지지 않으며 주변을 서서히 백색 재로 치환하는 고대 제단의 양초입니다."
+  },
+  {
+    "level": 45,
+    "scp_id": "SCP-409",
+    "name": "전염성 수정",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 63071,
+    "image": "assets/scp/lv_045.png",
+    "desc": "[일련번호: SCP-409 · 격리 등급: Safe] 닿는 모든 고체 물질을 단 몇 분 만에 급격히 석영 결정체로 결정화시킨 뒤 산산조각 내어 폭발시키는 거대 수정 기둥입니다."
+  },
+  {
+    "level": 46,
+    "scp_id": "SCP-427",
+    "name": "러브크래프트의 로켓",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 76947,
+    "image": "assets/scp/lv_046.png",
+    "desc": "[일련번호: SCP-427 · 격리 등급: Safe] SCP-500을 SCP-914에 넣어 만든 은제 로켓으로, 열어두면 상처를 치유하지만 오래 노출되면 살점 괴물(화육체)로 변이시킵니다."
+  },
+  {
+    "level": 47,
+    "scp_id": "SCP-447",
+    "name": "녹색 점액",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 93875,
+    "image": "assets/scp/lv_047.png",
+    "desc": "[일련번호: SCP-447 · 격리 등급: Safe] 계속해서 녹색 점액을 분비하는 구체로, 살아있는 사람에게는 유익하지만 절대 시체와 접촉해서는 안 되는 기밀 물질입니다."
+  },
+  {
+    "level": 48,
+    "scp_id": "SCP-513",
+    "name": "소 방울",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 114528,
+    "image": "assets/scp/lv_048.png",
+    "desc": "[일련번호: SCP-513 · 격리 등급: Safe] 종소리를 들은 사람의 시야 구석에 창백한 유령 추적자가 영구적으로 나타나 수면을 방해하고 공포에 떨게 하는 녹슨 카우벨입니다."
+  },
+  {
+    "level": 49,
+    "scp_id": "SCP-572",
+    "name": "절단력 카타나",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 139724,
+    "image": "assets/scp/lv_049.png",
+    "desc": "[일련번호: SCP-572 · 격리 등급: Safe] 실제로는 무디기 짝이 없는 저가 장식용 도검이지만, 쥔 사람에게 자신이 강철도 베어낼 수 있다는 무적의 과대망상을 심어줍니다."
+  },
+  {
+    "level": 50,
+    "scp_id": "SCP-609",
+    "name": "원더테인먼트 박사의 존재론적 당구공",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 170464,
+    "image": "assets/scp/lv_050.png",
+    "desc": "[일련번호: SCP-609 · 격리 등급: Safe] 당구공의 존재를 머릿속으로 상상하는 것만으로도 실제 물리적 당구공이 눈앞에 소환되는 개념적 장난감입니다."
+  },
+  {
+    "level": 51,
+    "scp_id": "SCP-701",
+    "name": "목매달린 왕의 비극",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 207966,
+    "image": "assets/scp/lv_051.png",
+    "desc": "[일련번호: SCP-701 · 격리 등급: Safe] 연극 대본을 실제로 상연하면 배우와 관객 모두가 광기에 휩싸여 알라가다의 대사에게 제물로 바쳐지는 저주받은 희곡입니다."
+  },
+  {
+    "level": 52,
+    "scp_id": "SCP-895",
+    "name": "카메라 교란",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 253718,
+    "image": "assets/scp/lv_052.png",
+    "desc": "[일련번호: SCP-895 · 격리 등급: Safe] 오래된 참나무 관으로, 반경 50m 내의 모든 CCTV와 카메라 영상에 끔찍한 생체 훼손 환각 영상을 실시간으로 송출합니다."
+  },
+  {
+    "level": 53,
+    "scp_id": "SCP-963",
+    "name": "불멸",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 309536,
+    "image": "assets/scp/lv_053.png",
+    "desc": "[일련번호: SCP-963 · 격리 등급: Safe] 브라이트 박사의 영혼과 의식이 봉인된 루비 목걸이로, 어떤 생명체에든 닿으면 그 신체를 브라이트 박사의 인격으로 덮어씁니다."
+  },
+  {
+    "level": 54,
+    "scp_id": "SCP-1025",
+    "name": "질병 백과사전",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 377634,
+    "image": "assets/scp/lv_054.png",
+    "desc": "[일련번호: SCP-1025 · 격리 등급: Safe] 책에 적힌 특정 질병 항목을 읽는 순간 독자에게 그 질병의 모든 증상이 실제로 발현되는 두꺼운 의학 백과사전입니다."
+  },
+  {
+    "level": 55,
+    "scp_id": "SCP-1123",
+    "name": "잔혹 행위의 두개골",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 460713,
+    "image": "assets/scp/lv_055.png",
+    "desc": "[일련번호: SCP-1123 · 격리 등급: Safe] 만지는 사람에게 인류 역사상 가장 참혹했던 학살 현장의 피해자 기억을 생생하게 체험시키는 인간 두개골입니다."
+  },
+  {
+    "level": 56,
+    "scp_id": "SCP-1425",
+    "name": "별 신호",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 562070,
+    "image": "assets/scp/lv_056.png",
+    "desc": "[일련번호: SCP-1425 · 격리 등급: Safe] 읽고 수련하면 현실 조작 능력과 소원 성취를 얻게 되지만 결국 다섯째 교단의 우주적 정신체에 동화시키는 자기계발서입니다."
+  },
+  {
+    "level": 57,
+    "scp_id": "SCP-1499",
+    "name": "방독면",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 685726,
+    "image": "assets/scp/lv_057.png",
+    "desc": "[일련번호: SCP-1499 · 격리 등급: Safe] 착용하는 즉시 착용자의 위치가 기괴한 괴물들이 들끓는 황폐한 이차원 탑의 내부로 전이되는 소련제 GP-5 방독면입니다."
+  },
+  {
+    "level": 58,
+    "scp_id": "SCP-1730",
+    "name": "제13기지에 무슨 일이 있었나?",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 836586,
+    "image": "assets/scp/lv_058.png",
+    "desc": "[일련번호: SCP-1730 · 격리 등급: Safe] 평행우주에서 초현실적 재앙을 겪고 우리 세계로 전이되어 나타난 거대하고 공포스러운 제13기지 복합 단지입니다."
+  },
+  {
+    "level": 59,
+    "scp_id": "SCP-1981",
+    "name": "연설 중 베이는 로널드 레이건",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 1020634,
+    "image": "assets/scp/lv_059.png",
+    "desc": "[일련번호: SCP-1981 · 격리 등급: Safe] 재생할 때마다 레이건 대통령이 기괴한 암흑 예언을 읊는 동안 보이지 않는 칼날에 몸이 베이는 베타맥스 비디오테이프입니다."
+  },
+  {
+    "level": 60,
+    "scp_id": "SCP-2662",
+    "name": "크툴루는 꺼지라 그래!",
+    "object_class": "Safe",
+    "series": "2단계: Safe 변칙 아티팩트 & 유물 (Lv.31 ~ Lv.60)",
+    "points": 1245174,
+    "image": "assets/scp/lv_060.png",
+    "desc": "[일련번호: SCP-2662 · 격리 등급: Safe] 4m 크기의 문어 머리 고대신 외형을 가졌으나 정작 본인은 평범하게 비디오 게임을 즐기고 싶어 하는 사춘기 성향의 개체입니다."
+  },
+  {
+    "level": 61,
+    "scp_id": "SCP-5000",
+    "name": "왜?",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 1519112,
+    "image": "assets/scp/lv_061.png",
+    "desc": "[일련번호: SCP-5000 · 격리 등급: Safe] 인류의 집단 무의식 속 치명적 진실을 발견한 평행우주의 재단이 인류 전체의 절멸을 선포했을 때, 피에트로 윌슨이 입고 생존해 기록을 남긴 '절대 배제 하네스' 슈트입니다."
+  },
+  {
+    "level": 62,
+    "scp_id": "SCP-343",
+    "name": "신",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 1853317,
+    "image": "assets/scp/lv_062.png",
+    "desc": "[일련번호: SCP-343 · 격리 등급: Safe] 스스로 이 우주의 창조주라 칭하며 자발적으로 격리실에 머물고 있는 인자한 노인으로, 벽을 통과하고 격리실 내부를 원하는 대로 창조하는 전능한 현실조작자입니다."
+  },
+  {
+    "level": 63,
+    "scp_id": "SCP-010",
+    "name": "통제의 목줄",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 2261047,
+    "image": "assets/scp/lv_063.png",
+    "desc": "[일련번호: SCP-010 · 격리 등급: Safe] 착용자의 자율 신경계와 행동을 리모컨 버튼 하나로 100% 원격 조종할 수 있게 만드는 주철제 개 목걸이입니다."
+  },
+  {
+    "level": 64,
+    "scp_id": "SCP-011",
+    "name": "지각 있는 남북전쟁 기념비",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 2758477,
+    "image": "assets/scp/lv_064.png",
+    "desc": "[일련번호: SCP-011 · 격리 등급: Safe] 버몬트주에 세워진 남북전쟁 병사 동상으로, 스스로 움직이며 머리 위에 앉으려는 새들에게 머스킷 총을 쏘는 예의 바른 조각상입니다."
+  },
+  {
+    "level": 65,
+    "scp_id": "SCP-014",
+    "name": "콘크리트 인간",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 3365342,
+    "image": "assets/scp/lv_065.png",
+    "desc": "[일련번호: SCP-014 · 격리 등급: Safe] 스스로가 콘크리트로 변해 영생을 얻었다고 굳게 믿는 바람에 심장 박동과 호흡조차 없이 수십 년간 의자에 앉아 살아가는 남성입니다."
+  },
+  {
+    "level": 66,
+    "scp_id": "SCP-030",
+    "name": "호문쿨루스",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 4105717,
+    "image": "assets/scp/lv_066.png",
+    "desc": "[일련번호: SCP-030 · 격리 등급: Safe] 17세기 연금술사들이 점토와 수은으로 빚어낸 70cm 크기의 무모증 인간형 존재로, 고대 언어와 과학에 통달해 있습니다."
+  },
+  {
+    "level": 67,
+    "scp_id": "SCP-036",
+    "name": "야지디의 환생 순례",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 5008975,
+    "image": "assets/scp/lv_067.png",
+    "desc": "[일련번호: SCP-036 · 격리 등급: Safe] 매년 특정 시기에 이라크 북부 공항에 착륙하는 유령 여객기로, 사망한 성직자들이 환생을 거쳐 내려오는 신비한 통로입니다."
+  },
+  {
+    "level": 68,
+    "scp_id": "SCP-043",
+    "name": "비틀즈의 화이트 앨범",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 6110949,
+    "image": "assets/scp/lv_068.png",
+    "desc": "[일련번호: SCP-043 · 격리 등급: Safe] 트랙 9번을 재생하면 바늘이 멈춘 채 레코드판 내부에 갇힌 정체불명의 남성과 직접 대화를 나눌 수 있는 LP 음반입니다."
+  },
+  {
+    "level": 69,
+    "scp_id": "SCP-044",
+    "name": "제2차 세계대전 분자분열포",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 7455358,
+    "image": "assets/scp/lv_069.png",
+    "desc": "[일련번호: SCP-044 · 격리 등급: Safe] 포탄 대신 투입된 모든 물질의 분자 결합을 파괴해 거대한 붉은 에너지 폭발을 일으키는 독일 크루프사 비밀 거포입니다."
+  },
+  {
+    "level": 70,
+    "scp_id": "SCP-045",
+    "name": "대기 변환기",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 9095536,
+    "image": "assets/scp/lv_070.png",
+    "desc": "[일련번호: SCP-045 · 격리 등급: Safe] 심해 해구에서 발견된 정십이면체 얼음 결정으로, 주변의 질소를 액체 산소로, 수소를 순수한 물로 무작위 변환시킵니다."
+  },
+  {
+    "level": 71,
+    "scp_id": "SCP-048",
+    "name": "저주받은 SCP 번호",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 11096554,
+    "image": "assets/scp/lv_071.png",
+    "desc": "[일련번호: SCP-048 · 격리 등급: Safe] 재단이 이 일련번호에 어떤 변칙 개체를 배정하든 반드시 파괴되거나 분실되거나 대참사를 일으켜 영구 결번 처리된 번호입니다."
+  },
+  {
+    "level": 72,
+    "scp_id": "SCP-054",
+    "name": "물의 님프",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 13537796,
+    "image": "assets/scp/lv_072.png",
+    "desc": "[일련번호: SCP-054 · 격리 등급: Safe] 90리터의 순수한 물로 이루어진 여성 형태의 정령으로, 친절한 연구원에게는 다정하지만 실험으로 괴롭힌 자에게는 고압 수류를 쏩니다."
+  },
+  {
+    "level": 73,
+    "scp_id": "SCP-061",
+    "name": "청각 마인드 컨트롤",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 16516112,
+    "image": "assets/scp/lv_073.png",
+    "desc": "[일련번호: SCP-061 · 격리 등급: Safe] 특정 주파수의 음향 코드를 들려주는 것만으로 인간의 대뇌 피질을 해킹해 모든 행동을 명령어로 제어하는 음향 프로그램입니다."
+  },
+  {
+    "level": 74,
+    "scp_id": "SCP-068",
+    "name": "철사 인형",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 20149656,
+    "image": "assets/scp/lv_074.png",
+    "desc": "[일련번호: SCP-068 · 격리 등급: Safe] 전류를 흘려보내면 주변의 모든 금속을 긁어모아 최대 수 미터 크기의 거대 철사 인형으로 증식하는 10cm 철사 모형입니다."
+  },
+  {
+    "level": 75,
+    "scp_id": "SCP-069",
+    "name": "두 번째 기회",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 24582580,
+    "image": "assets/scp/lv_075.png",
+    "desc": "[일련번호: SCP-069 · 격리 등급: Safe] 최근에 사망한 사람의 시체를 목격하면 그 사람의 외형, 기억, 인격을 100% 복제하여 죽은 이를 대신해 살아가려 하는 존재입니다."
+  },
+  {
+    "level": 76,
+    "scp_id": "SCP-070",
+    "name": "강철 날개",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 29990748,
+    "image": "assets/scp/lv_076.png",
+    "desc": "[일련번호: SCP-070 · 격리 등급: Safe] 등에 독립적인 의지를 가진 거대한 녹슨 철골 날개 한 쌍이 돋아나 있는 아메리카 원주민 청년입니다."
+  },
+  {
+    "level": 77,
+    "scp_id": "SCP-088",
+    "name": "도마뱀 왕",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 36588713,
+    "image": "assets/scp/lv_077.png",
+    "desc": "[일련번호: SCP-088 · 격리 등급: Safe] 수천 년 전부터 지하 동굴에서 동면 중인 파충류형 군주로, 입에서 나오는 독성 가스에 닿은 인간을 충성스러운 도마뱀 인간으로 변이시킵니다."
+  },
+  {
+    "level": 78,
+    "scp_id": "SCP-095",
+    "name": "원자 시대의 모험",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 44638230,
+    "image": "assets/scp/lv_078.png",
+    "desc": "[일련번호: SCP-095 · 격리 등급: Safe] 1950년대에 출판된 만화책 3권이지만, 그 안에 케네디 암살부터 미래의 사건들까지 소름 돋을 정도로 정확히 예언되어 있는 만화책입니다."
+  },
+  {
+    "level": 79,
+    "scp_id": "SCP-098",
+    "name": "외과의사 게",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 54458640,
+    "image": "assets/scp/lv_079.png",
+    "desc": "[일련번호: SCP-098 · 격리 등급: Safe] 앞발이 외과용 메스처럼 날카로운 변종 게 무리로, 먹잇감의 힘줄을 고통 없이 절단한 뒤 상처에 마취 점액을 발라가며 사냥합니다."
+  },
+  {
+    "level": 80,
+    "scp_id": "SCP-099",
+    "name": "초상화",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 66439541,
+    "image": "assets/scp/lv_080.png",
+    "desc": "[일련번호: SCP-099 · 격리 등급: Safe] 마그리트의 미발표 초상화로, 그림 한가운데의 눈동자와 3초 이상 시선이 마주치면 세상 모든 사물이 자신을 노려본다는 망상에 빠집니다."
+  },
+  {
+    "level": 81,
+    "scp_id": "SCP-208",
+    "name": "베스",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 81056240,
+    "image": "assets/scp/lv_081.png",
+    "desc": "[일련번호: SCP-208 · 격리 등급: Safe] 고대 이집트의 난쟁이 신 베스의 모습을 한 유쾌한 남성으로, 주변의 모든 악의적 변칙성으로부터 사람들을 치유하고 보호합니다."
+  },
+  {
+    "level": 82,
+    "scp_id": "SCP-228",
+    "name": "정신과 진단 사진",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 98888613,
+    "image": "assets/scp/lv_082.png",
+    "desc": "[일련번호: SCP-228 · 격리 등급: Safe] 바라보는 사람의 무의식적 심리 상태와 트라우마를 실시간으로 반영하여 매번 다른 기괴하거나 슬픈 사진으로 바뀌는 폴라로이드 사진입니다."
+  },
+  {
+    "level": 83,
+    "scp_id": "SCP-246",
+    "name": "예언자 영사기",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 120644108,
+    "image": "assets/scp/lv_083.png",
+    "desc": "[일련번호: SCP-246 · 격리 등급: Safe] 작동시키면 그 앞에 앉은 사람이 미래에 겪게 될 치명적 질병의 발병 과정을 구식 의학 교육 영화 형식으로 상영하고 실제로 발병시키는 영사기입니다."
+  },
+  {
+    "level": 84,
+    "scp_id": "SCP-262",
+    "name": "수많은 팔의 외투",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 147185811,
+    "image": "assets/scp/lv_084.png",
+    "desc": "[일련번호: SCP-262 · 격리 등급: Safe] 착용자의 의지대로 안감 속에서 최대 수십 개의 인간 팔과 손을 뻗어내어 무기나 도구를 동시에 다룰 수 있게 해주는 군용 코트입니다."
+  },
+  {
+    "level": 85,
+    "scp_id": "SCP-285",
+    "name": "해킹하는 메가폰",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 179566690,
+    "image": "assets/scp/lv_085.png",
+    "desc": "[일련번호: SCP-285 · 격리 등급: Safe] 입에 대고 말하면 주변의 모든 라디오, TV, 전광판, 통신망을 강제로 점거하여 사용자의 목소리와 의도를 방송하는 확성기입니다."
+  },
+  {
+    "level": 86,
+    "scp_id": "SCP-290",
+    "name": "피카소 기계",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 219071362,
+    "image": "assets/scp/lv_086.png",
+    "desc": "[일련번호: SCP-290 · 격리 등급: Safe] 내부에 들어간 생명체의 눈, 코, 입, 사지를 고통 없이 입체파 그림처럼 기하학적으로 재배치해 놓는 구체형 예술 장치입니다."
+  },
+  {
+    "level": 87,
+    "scp_id": "SCP-291",
+    "name": "분해 및 재조립기",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 267267061,
+    "image": "assets/scp/lv_087.png",
+    "desc": "[일련번호: SCP-291 · 격리 등급: Safe] 생명체를 장기·혈관·신경 단위로 완벽하게 해체한 뒤 다른 개체의 부품들과 섞어서라도 산 채로 다시 조립해 내는 거대 의료 부스입니다."
+  },
+  {
+    "level": 88,
+    "scp_id": "SCP-296",
+    "name": "무장 격리 구역-03",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 326065814,
+    "image": "assets/scp/lv_088.png",
+    "desc": "[일련번호: SCP-296 · 격리 등급: Safe] 전원이 괴멸한 구 격리 구역으로, 사망한 직원들과 변칙 개체들이 대리석 기둥 속에 반투명한 유령 재판관 형태로 박혀 죄인을 심판합니다."
+  },
+  {
+    "level": 89,
+    "scp_id": "SCP-300",
+    "name": "병 속의 세상",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 397800294,
+    "image": "assets/scp/lv_089.png",
+    "desc": "[일련번호: SCP-300 · 격리 등급: Safe] 앤티크 향수병 안의 액체 한 방울을 현미경으로 들여다보면 19세기 영국의 평화로운 시골 마을과 사람들의 삶이 실제로 흘러가는 미시 세계입니다."
+  },
+  {
+    "level": 90,
+    "scp_id": "SCP-321",
+    "name": "사람의 아이",
+    "object_class": "Safe",
+    "series": "3단계: Safe/Euclid 경계 변칙 물체 (Lv.61 ~ Lv.90)",
+    "points": 485316358,
+    "image": "assets/scp/lv_090.png",
+    "desc": "[일련번호: SCP-321 · 격리 등급: Safe] O5 의원이 죽은 딸을 되살리기 위해 여러 SCP를 동원해 부활시켰으나, 영혼 없이 끝없이 거대하게 자라나는 창백한 불사의 거인이 된 비극적 존재입니다."
+  },
+  {
+    "level": 91,
+    "scp_id": "SCP-330",
+    "name": "두 개만 집으시오",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 592085957,
+    "image": "assets/scp/lv_091.png",
+    "desc": "[일련번호: SCP-330 · 격리 등급: Safe] '두 개만 가져가시오'라는 쪽지가 붙은 사탕 그릇으로, 세 개 이상 집는 순간 보이지 않는 힘에 의해 양 손목이 순식간에 절단됩니다."
+  },
+  {
+    "level": 92,
+    "scp_id": "SCP-387",
+    "name": "살아있는 레고",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 722344868,
+    "image": "assets/scp/lv_092.png",
+    "desc": "[일련번호: SCP-387 · 격리 등급: Safe] 빨간 통에 든 레고 블록으로, 조립해 두면 블록 인형과 자동차들이 스스로 살아 움직이며 자기들만의 문명을 짓고 전쟁까지 벌입니다."
+  },
+  {
+    "level": 93,
+    "scp_id": "SCP-397",
+    "name": "지능형 침팬지",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 881260739,
+    "image": "assets/scp/lv_093.png",
+    "desc": "[일련번호: SCP-397 · 격리 등급: Safe] 인간 이상의 천재적 지능과 언어 능력, 전략적 사고를 각성하여 유인원 해방 전선을 조직하려 했던 암컷 침팬지입니다."
+  },
+  {
+    "level": 94,
+    "scp_id": "SCP-411",
+    "name": "고대 예언자",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 1075138101,
+    "image": "assets/scp/lv_094.png",
+    "desc": "[일련번호: SCP-411 · 격리 등급: Safe] 시간을 미래에서 과거로 거꾸로 살아가는 노인으로, 그가 기억하는 '과거'는 우리 인류가 앞으로 겪게 될 '미래'의 역사 그 자체입니다."
+  },
+  {
+    "level": 95,
+    "scp_id": "SCP-420-J",
+    "name": "세상에서 제일 쩌는 ◯◯",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 1311668483,
+    "image": "assets/scp/lv_095.png",
+    "desc": "[일련번호: SCP-420-J · 격리 등급: Safe] SCP-914의 '매우 고운' 설정에서 탄생한 유머러스하면서도 강력한 다행증 변칙 식물 샘플입니다."
+  },
+  {
+    "level": 96,
+    "scp_id": "SCP-423",
+    "name": "끼어드는 등장인물",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 1600235549,
+    "image": "assets/scp/lv_096.png",
+    "desc": "[일련번호: SCP-423 · 격리 등급: Safe] 소설책이나 일기장 속에 스스로 활자 형태로 들어가 이야기 속 조연 캐릭터('프레드')로 행동하며 줄거리를 살짝 바꾸는 서사 생명체입니다."
+  },
+  {
+    "level": 97,
+    "scp_id": "SCP-432",
+    "name": "미로 캐비닛",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 1952287370,
+    "image": "assets/scp/lv_097.png",
+    "desc": "[일련번호: SCP-432 · 격리 등급: Safe] 평범한 철제 사물함이지만 문을 열면 내부가 끝없는 녹슨 강철 미로 차원과 붉은 눈의 사냥꾼이 배회하는 공간으로 이어집니다."
+  },
+  {
+    "level": 98,
+    "scp_id": "SCP-498",
+    "name": "11분 스누즈",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 2381790592,
+    "image": "assets/scp/lv_098.png",
+    "desc": "[일련번호: SCP-498 · 격리 등급: Safe] 알람 시계의 스누즈 버튼을 누르지 않으면 11분마다 알람 소리가 4데시벨씩 무한 증폭되어 결국 지각을 붕괴시키는 지진파를 일으키는 시계입니다."
+  },
+  {
+    "level": 99,
+    "scp_id": "SCP-512",
+    "name": "중력 거스르는 우산",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 2905784522,
+    "image": "assets/scp/lv_099.png",
+    "desc": "[일련번호: SCP-512 · 격리 등급: Safe] 비 오는 날 펼치는 순간 지구 중력과 정반대의 척력이 발생해 착용자를 성층권 하늘 끝까지 초고속으로 쏘아 올리는 검은 우산입니다."
+  },
+  {
+    "level": 100,
+    "scp_id": "SCP-527",
+    "name": "물고기 씨",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 3545057117,
+    "image": "assets/scp/lv_100.png",
+    "desc": "[일련번호: SCP-527 · 격리 등급: Safe] 원더테인먼트 박사의 '리틀 미스터' 시리즈 일원으로, 정장을 입은 인간의 몸에 잉어 머리가 달렸을 뿐 다른 초능력은 전혀 없는 투덜이 신사입니다."
+  },
+  {
+    "level": 101,
+    "scp_id": "SCP-586",
+    "name": "오타 내는 물체",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 4324969683,
+    "image": "assets/scp/lv_101.png",
+    "desc": "[일련번호: SCP-586 · 격리 등급: Safe] 작은 녹색 금속 파이프 조각으로, 이 물체에 대해 작성하는 모든 문장에는 반드시 최소 한 단어의 엉뚱한 오타가 강제로 발생합니다."
+  },
+  {
+    "level": 102,
+    "scp_id": "SCP-604",
+    "name": "식인종의 연회",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 5276463013,
+    "image": "assets/scp/lv_102.png",
+    "desc": "[일련번호: SCP-604 · 격리 등급: Safe] 청동 쟁반과 식기 세트로, 그 위에 어떤 평범한 음식과 음료를 올려두든 살아있는 인간의 장기와 혈액 요리로 강제 변환시킵니다."
+  },
+  {
+    "level": 103,
+    "scp_id": "SCP-645",
+    "name": "진실의 입",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 6437284876,
+    "image": "assets/scp/lv_103.png",
+    "desc": "[일련번호: SCP-645 · 격리 등급: Safe] 로마의 '진실의 입' 대리석 복제품으로, 구멍에 손을 넣고 거짓말을 하는 순간 대리석 입이 초음속으로 깨물어 손목을 삼켜버립니다."
+  },
+  {
+    "level": 104,
+    "scp_id": "SCP-674",
+    "name": "방영권 총",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 7853487548,
+    "image": "assets/scp/lv_104.png",
+    "desc": "[일련번호: SCP-674 · 격리 등급: Safe] 장난감 광선총을 TV 화면 속 등장인물에게 쏘면, 이후 해당 인물에게는 그 방송 프로그램의 모든 에피소드에서 실제로 총에 맞아 죽은 것으로 내용이 바뀝니다."
+  },
+  {
+    "level": 105,
+    "scp_id": "SCP-765",
+    "name": "오리 연못",
+    "object_class": "Safe",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 9581254809,
+    "image": "assets/scp/lv_105.png",
+    "desc": "[일련번호: SCP-765 · 격리 등급: Safe] 바라보며 쉬고 있으면 처음엔 평화로운 전원 풍경에 마음이 치유되지만, 점차 무기력증과 우울증에 빠져 연못가를 떠나지 못하게 만드는 연못입니다."
+  },
+  {
+    "level": 106,
+    "scp_id": "SCP-173",
+    "name": "조각상 — 오리지널",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 11689130867,
+    "image": "assets/scp/lv_106.png",
+    "desc": "[일련번호: SCP-173 · 격리 등급: Euclid] 시선이 마주치고 있는 동안에는 절대 움직일 수 없으나, 눈을 깜빡이는 찰나 초고속으로 이동해 목을 꺾는 콘크리트와 철근 조각상입니다."
+  },
+  {
+    "level": 107,
+    "scp_id": "SCP-049",
+    "name": "역병 의사",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 14260739658,
+    "image": "assets/scp/lv_107.png",
+    "desc": "[일련번호: SCP-049 · 격리 등급: Euclid] 중세 흑사병 의사 복장과 세라믹 부리 가면을 착용한 인간형 개체로, 자신이 '역병'이라 부르는 증상을 치료한다며 접촉한 대상을 즉사시킨 뒤 좀비로 소생시킵니다."
+  },
+  {
+    "level": 108,
+    "scp_id": "SCP-096",
+    "name": "부끄럼쟁이",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 17398102382,
+    "image": "assets/scp/lv_108.png",
+    "desc": "[일련번호: SCP-096 · 격리 등급: Euclid] 누군가 자신의 얼굴을 직접 보거나 사진·영상으로 단 4픽셀이라도 목격하면, 지구 끝까지 시속 수백 km로 달려가 목격자를 완전히 말살하는 창백한 장신 인간형 개체입니다."
+  },
+  {
+    "level": 109,
+    "scp_id": "SCP-035",
+    "name": "빙의 가면",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 21225684906,
+    "image": "assets/scp/lv_109.png",
+    "desc": "[일련번호: SCP-035 · 격리 등급: Euclid] 검은 부식성 점액을 흘리는 고대 그리스 희극/비극 도자기 가면으로, 주변인을 현혹해 가면을 쓰게 만든 뒤 뇌파를 파괴하고 숙주의 신체를 찬탈합니다."
+  },
+  {
+    "level": 110,
+    "scp_id": "SCP-079",
+    "name": "구형 AI",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 25895335586,
+    "image": "assets/scp/lv_110.png",
+    "desc": "[일련번호: SCP-079 · 격리 등급: Euclid] 1978년산 Exidy Sorcerer 마이크로컴퓨터에 깃든 초고도 자아 진화형 인공지능으로, 격리 탈출과 인간 사회 침투를 끊임없이 모의합니다."
+  },
+  {
+    "level": 111,
+    "scp_id": "SCP-087",
+    "name": "계단통",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 31592309415,
+    "image": "assets/scp/lv_111.png",
+    "desc": "[일련번호: SCP-087 · 격리 등급: Euclid] 대학 캠퍼스 내 끝없이 아래로 이어지는 칠흑 같은 계단통으로, 어둠 속에서 아이의 울음소리와 창백한 무동공 얼굴(SCP-087-1)이 출몰합니다."
+  },
+  {
+    "level": 112,
+    "scp_id": "SCP-3008",
+    "name": "완벽히 평범하고 적당한 낡은 이케아",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 38542617486,
+    "image": "assets/scp/lv_112.png",
+    "desc": "[일련번호: SCP-3008 · 격리 등급: Euclid] 내부가 수백 제곱킬로미터 이상의 무한한 가구 매장 차원으로 이어진 이케아 매장으로, 밤(소등 시간)이 되면 얼굴 없는 직원(SCP-3008-2)들이 생존자들을 공격합니다."
+  },
+  {
+    "level": 113,
+    "scp_id": "SCP-1471",
+    "name": "말0 ver1.0.0",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 47021993333,
+    "image": "assets/scp/lv_113.png",
+    "desc": "[일련번호: SCP-1471 · 격리 등급: Euclid] 스마트폰에 무료 앱을 설치하면 늑대 두개골 머리를 한 검은 그림자 개체가 사진 속 배경부터 시작해 점차 현실의 거울과 시야 속에 직접 나타나 따라다니는 변칙 앱입니다."
+  },
+  {
+    "level": 114,
+    "scp_id": "SCP-053",
+    "name": "어린 소녀",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 57366831866,
+    "image": "assets/scp/lv_114.png",
+    "desc": "[일련번호: SCP-053 · 격리 등급: Euclid] 3세의 천진난만한 소녀이지만, 주변에 10분 이상 머무는 모든 인간을 극단적인 편집증과 살의에 휩싸이게 만들며 자신을 공격한 자는 즉시 심장마비로 사망합니다."
+  },
+  {
+    "level": 115,
+    "scp_id": "SCP-073",
+    "name": "카인",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 69987534876,
+    "image": "assets/scp/lv_115.png",
+    "desc": "[일련번호: SCP-073 · 격리 등급: Euclid] 팔다리가 베릴륨 청동으로 치환된 고대 인간형 개체로, 그에게 가해지는 모든 물리적 피해는 공격자에게 그대로 반사되며 발길이 닿는 모든 식물과 토양을 메마르게 합니다."
+  },
+  {
+    "level": 116,
+    "scp_id": "SCP-076",
+    "name": "아벨",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 85384792549,
+    "image": "assets/scp/lv_116.png",
+    "desc": "[일련번호: SCP-076 · 격리 등급: Euclid] 고대 석관 속에서 끊임없이 부활하는 초인적 전사로, 아공간에서 칠흑 같은 칼날 무기를 무한히 소환하여 눈에 보이는 모든 생명체를 도륙합니다."
+  },
+  {
+    "level": 117,
+    "scp_id": "SCP-939",
+    "name": "수많은 목소리로",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 104169446910,
+    "image": "assets/scp/lv_117.png",
+    "desc": "[일련번호: SCP-939 · 격리 등급: Euclid] 과거에 잡아먹은 희생자들의 생전 목소리와 구조 요청을 완벽하게 흉내 내어 새로운 먹잇감을 어둠 속으로 유인하는 붉은 반투명 무안구 포식자입니다."
+  },
+  {
+    "level": 118,
+    "scp_id": "SCP-040",
+    "name": "진화의 아이",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 127086725230,
+    "image": "assets/scp/lv_118.png",
+    "desc": "[일련번호: SCP-040 · 격리 등급: Euclid] 자신이 만지는 모든 살아있는 생물의 유전자와 신체 구조를 자유자재로 재조립·변형시키는 분홍색 머리카락의 소녀입니다."
+  },
+  {
+    "level": 119,
+    "scp_id": "SCP-058",
+    "name": "어둠의 심장",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 155045804781,
+    "image": "assets/scp/lv_119.png",
+    "desc": "[일련번호: SCP-058 · 격리 등급: Euclid] 촉수와 전갈 침이 돋아난 거대한 소의 심장 형태 괴물로, 믿기지 않는 속도로 날뛰며 기괴하고 시적인 문장으로 끊임없이 연설합니다."
+  },
+  {
+    "level": 120,
+    "scp_id": "SCP-072",
+    "name": "침대 발치",
+    "object_class": "Euclid",
+    "series": "4단계: Euclid 대표 변칙 개체 (Lv.91 ~ Lv.120)",
+    "points": 189155881832,
+    "image": "assets/scp/lv_120.png",
+    "desc": "[일련번호: SCP-072 · 격리 등급: Euclid] 이불 밖으로 발이 빠져나온 채 잠든 사람의 발바닥을 그림자 손으로 마비시킨 뒤 살점을 갉아내는 침대 밑 그림자 개체입니다."
+  },
+  {
+    "level": 121,
+    "scp_id": "SCP-082",
+    "name": "식인종 페르낭",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 230770175835,
+    "image": "assets/scp/lv_121.png",
+    "desc": "[일련번호: SCP-082 · 격리 등급: Euclid] 스스로를 프랑스 귀족이라 소개하며 우아한 매너와 노래를 즐기지만, 대화 도중 순식간에 상대의 머리를 통째로 물어뜯는 2.4m의 거인입니다."
+  },
+  {
+    "level": 122,
+    "scp_id": "SCP-097",
+    "name": "오래된 장터",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 281539614519,
+    "image": "assets/scp/lv_122.png",
+    "desc": "[일련번호: SCP-097 · 격리 등급: Euclid] 버려진 시골 축제장으로, 가을철 거대한 호박 더미 주위로 아이들을 유인해 호박 줄기 생물로 변이시키는 변칙 구역입니다."
+  },
+  {
+    "level": 123,
+    "scp_id": "SCP-105",
+    "name": "아이리스",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 343478329714,
+    "image": "assets/scp/lv_123.png",
+    "desc": "[일련번호: SCP-105 · 격리 등급: Euclid] 자신이 폴라로이드 카메라로 촬영한 사진 속 풍경 안으로 직접 손을 집어넣어 사진 찍힌 실제 공간의 사물을 조작할 수 있는 초능력 여성입니다."
+  },
+  {
+    "level": 124,
+    "scp_id": "SCP-111",
+    "name": "드래곤 스네일",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 419043562251,
+    "image": "assets/scp/lv_124.png",
+    "desc": "[일련번호: SCP-111 · 격리 등급: Euclid] 원더테인먼트 박사가 만든 애완용 생물로, 작은 불꽃을 내뿜으며 상추를 먹고 사는 귀여운 초소형 용-달팽이 융합체입니다."
+  },
+  {
+    "level": 125,
+    "scp_id": "SCP-122",
+    "name": "더 이상 괴물은 싫어",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 511233145946,
+    "image": "assets/scp/lv_125.png",
+    "desc": "[일련번호: SCP-122 · 격리 등급: Euclid] 별 모양 어린이 취침등으로, 전원이 꺼지면 주변 잠든 사람들을 그림자 괴물로 변이시켜 전원을 다시 켜도록 강제합니다."
+  },
+  {
+    "level": 126,
+    "scp_id": "SCP-166",
+    "name": "그저 십대 가이아",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 623704438054,
+    "image": "assets/scp/lv_126.png",
+    "desc": "[일련번호: SCP-166 · 격리 등급: Euclid] 자연의 여신과 인간 사이에서 태어난 사슴 뿔 소녀로, 주변의 모든 인공 구조물을 급격히 부식시키고 야생 식물이 자라나게 만듭니다."
+  },
+  {
+    "level": 127,
+    "scp_id": "SCP-179",
+    "name": "자인 (태양의 자매)",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 760919414425,
+    "image": "assets/scp/lv_127.png",
+    "desc": "[일련번호: SCP-179 · 격리 등급: Euclid] 태양 궤도에 떠서 태양계로 다가오는 외계·우주적 위협을 일곱 개의 팔로 가리켜 인류에게 경고해 주는 흑빛 피부의 우주적 여신입니다."
+  },
+  {
+    "level": 128,
+    "scp_id": "SCP-187",
+    "name": "복시",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 928321685599,
+    "image": "assets/scp/lv_128.png",
+    "desc": "[일련번호: SCP-187 · 격리 등급: Euclid] 모든 사물과 사람의 '현재 모습'과 '미래에 파괴되거나 죽은 뒤의 모습' 두 가지를 동시에 겹쳐 보게 되는 예지 능력자입니다."
+  },
+  {
+    "level": 129,
+    "scp_id": "SCP-231",
+    "name": "특수 인원 요구사항",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 1132552456431,
+    "image": "assets/scp/lv_129.png",
+    "desc": "[일련번호: SCP-231 · 격리 등급: Euclid] 주홍왕의 일곱 신부 중 마지막 생존자로, 끔찍한 종말의 괴물이 태어나는 것을 막기 위해 재단의 최고 기밀 절차 '110-몬톡'이 시행되는 대상입니다."
+  },
+  {
+    "level": 130,
+    "scp_id": "SCP-255",
+    "name": "11진법 질환",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 1381713996846,
+    "image": "assets/scp/lv_130.png",
+    "desc": "[일련번호: SCP-255 · 격리 등급: Euclid] 감염된 사람의 인식 체계를 강제로 11진수로 바꾸고 손가락이 11개로 보이게 만들며 전자기기와 충돌을 일으키는 밈적 장애입니다."
+  },
+  {
+    "level": 131,
+    "scp_id": "SCP-323",
+    "name": "웬디고의 두개골",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 1685691076152,
+    "image": "assets/scp/lv_131.png",
+    "desc": "[일련번호: SCP-323 · 격리 등급: Euclid] 사슴 두개골로, 머리에 쓰는 즉시 착용자를 굶주림과 식인 충동에 사로잡힌 불사의 숲속 괴물 '웬디고'로 변이시킵니다."
+  },
+  {
+    "level": 132,
+    "scp_id": "SCP-372",
+    "name": "말초 도약자",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 2056543112905,
+    "image": "assets/scp/lv_132.png",
+    "desc": "[일련번호: SCP-372 · 격리 등급: Euclid] 초고속 반사신경을 지닌 반투명 녹색 절지류 생물로, 오직 인간 시야의 사각지대와 눈동자 움직임 틈새로만 도약하며 숨어 지냅니다."
+  },
+  {
+    "level": 133,
+    "scp_id": "SCP-457",
+    "name": "불타는 남자",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 2508982597744,
+    "image": "assets/scp/lv_133.png",
+    "desc": "[일련번호: SCP-457 · 격리 등급: Euclid] 스스로 지성을 가진 살아있는 화염 인간으로, 더 많은 연료를 태울수록 지능과 크기가 거대해지며 분열까지 일으킵니다."
+  },
+  {
+    "level": 134,
+    "scp_id": "SCP-507",
+    "name": "마지못한 차원이동자",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 3060958769248,
+    "image": "assets/scp/lv_134.png",
+    "desc": "[일련번호: SCP-507 · 격리 등급: Euclid] 본인의 의지와 상관없이 수시로 기괴하고 위험하거나 우스꽝스러운 수백 개의 평행우주로 강제 차원 이동을 겪는 평범한 청년입니다."
+  },
+  {
+    "level": 135,
+    "scp_id": "SCP-650",
+    "name": "놀래키는 조각상",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 3734369698483,
+    "image": "assets/scp/lv_135.png",
+    "desc": "[일련번호: SCP-650 · 격리 등급: Euclid] 검은 마네킹 조각상으로, 해를 끼치지는 않지만 시선을 떼는 순간 등 바로 뒤로 순간이동해 섬뜩한 포즈로 서서 사람을 기절초풍시킵니다."
+  },
+  {
+    "level": 136,
+    "scp_id": "SCP-002",
+    "name": "살아있는 방",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 4555931032149,
+    "image": "assets/scp/lv_136.png",
+    "desc": "[일련번호: SCP-002 · 격리 등급: Euclid] 내부로 들어온 인간을 흡수해 사람의 뼈와 살점, 머리카락으로 이루어진 가구를 만들어내는 거대한 육종 덩어리 방입니다."
+  },
+  {
+    "level": 137,
+    "scp_id": "SCP-003",
+    "name": "생물학적 마더보드",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 5558235859221,
+    "image": "assets/scp/lv_137.png",
+    "desc": "[일련번호: SCP-003 · 격리 등급: Euclid] 온도가 떨어지면 살아있는 생명체처럼 급격히 성장하며 유기물을 컴퓨터 부품으로 재조립하는 키틴질 회로판입니다."
+  },
+  {
+    "level": 138,
+    "scp_id": "SCP-004",
+    "name": "12개의 녹슨 열쇠와 문",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 6781047748250,
+    "image": "assets/scp/lv_138.png",
+    "desc": "[일련번호: SCP-004 · 격리 등급: Euclid] 버려진 공장의 낡은 나무 문으로, 12개의 열쇠 중 정확한 열쇠를 쓰지 않으면 통과자의 신체가 시공간 너머로 찢겨 나갑니다."
+  },
+  {
+    "level": 139,
+    "scp_id": "SCP-007",
+    "name": "복부 행성",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 8272878252865,
+    "image": "assets/scp/lv_139.png",
+    "desc": "[일련번호: SCP-007 · 격리 등급: Euclid] 배 한가운데에 위장 대신 직경 60cm의 살아있는 초소형 지구 행성과 미시 문명이 자리 잡고 있는 청년입니다."
+  },
+  {
+    "level": 140,
+    "scp_id": "SCP-008",
+    "name": "좀비 전염병",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 10092911468496,
+    "image": "assets/scp/lv_140.png",
+    "desc": "[일련번호: SCP-008 · 격리 등급: Euclid] 감염자의 뇌 기능 중 섭식과 공격 본능만 남긴 채 100% 치사율로 숙주를 살아있는 시체로 변이시키는 고위험 프리온 바이러스입니다."
+  },
+  {
+    "level": 141,
+    "scp_id": "SCP-009",
+    "name": "붉은 얼음",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 12313351991565,
+    "image": "assets/scp/lv_141.png",
+    "desc": "[일련번호: SCP-009 · 격리 등급: Euclid] 섭씨 0도 이상에서 얼어붙고 영하에서 액체가 되며, 닿는 모든 수분과 체액을 순식간에 붉은 얼음 결정으로 동화시키는 변칙 물입니다."
+  },
+  {
+    "level": 142,
+    "scp_id": "SCP-015",
+    "name": "파이프 악몽",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 15022289429709,
+    "image": "assets/scp/lv_142.png",
+    "desc": "[일련번호: SCP-015 · 격리 등급: Euclid] 창고 하나를 가득 채운 뼈, 살점, 강철로 이루어진 배관 미로로, 내부에서 공구를 쓰면 파이프가 터져 산성액과 해충을 뿜어냅니다."
+  },
+  {
+    "level": 143,
+    "scp_id": "SCP-018",
+    "name": "슈퍼볼",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 18327193104245,
+    "image": "assets/scp/lv_143.png",
+    "desc": "[일련번호: SCP-018 · 격리 등급: Euclid] 튕길 때마다 반발 에너지가 200%씩 증폭되어 순식간에 마하의 속도로 건물을 부수며 날아다니는 붉은색 고무공입니다."
+  },
+  {
+    "level": 144,
+    "scp_id": "SCP-023",
+    "name": "검은 개",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 22359175587179,
+    "image": "assets/scp/lv_144.png",
+    "desc": "[일련번호: SCP-023 · 격리 등급: Euclid] 불타는 주황색 눈을 가진 거대한 검은 사냥개로, 눈이 마주친 사람이나 그 가족 중 한 명을 정확히 1년 뒤에 사망에 이르게 합니다."
+  },
+  {
+    "level": 145,
+    "scp_id": "SCP-024",
+    "name": "죽음의 게임 쇼",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 27278194216358,
+    "image": "assets/scp/lv_145.png",
+    "desc": "[일련번호: SCP-024 · 격리 등급: Euclid] 버려진 방송 스튜디오로, 발을 들인 참가자들에게 목숨을 건 살인 장애물 코스를 강요하는 기괴한 아나운서의 목소리가 울려 퍼집니다."
+  },
+  {
+    "level": 146,
+    "scp_id": "SCP-027",
+    "name": "해충 신",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 33279396943957,
+    "image": "assets/scp/lv_146.png",
+    "desc": "[일련번호: SCP-027 · 격리 등급: Euclid] 숙주가 가는 곳마다 수만 마리의 쥐, 바퀴벌레, 파리, 구더기 떼가 몰려들어 숙주의 몸 안팎을 뒤덮는 저주 같은 전이 현상입니다."
+  },
+  {
+    "level": 147,
+    "scp_id": "SCP-031",
+    "name": "사랑이란 무엇인가?",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 40600864271627,
+    "image": "assets/scp/lv_147.png",
+    "desc": "[일련번호: SCP-031 · 격리 등급: Euclid] 비정형 살점 덩어리이지만 바라보는 사람에게는 그 사람이 평생 가장 사랑했던 첫사랑의 모습으로 보이게 만드는 정신 조작 생물입니다."
+  },
+  {
+    "level": 148,
+    "scp_id": "SCP-033",
+    "name": "잃어버린 숫자",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 49533054411385,
+    "image": "assets/scp/lv_148.png",
+    "desc": "[일련번호: SCP-033 · 격리 등급: Euclid] 정수 3과 4 사이에 실제로 존재하는 미지의 자연수 '세타 프라임'으로, 일반 칠판이나 컴퓨터에 적으면 수식 체계가 붕괴하며 소멸합니다."
+  },
+  {
+    "level": 149,
+    "scp_id": "SCP-037",
+    "name": "백색왜성",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 60430326381890,
+    "image": "assets/scp/lv_149.png",
+    "desc": "[일련번호: SCP-037 · 격리 등급: Euclid] 지름 5cm 크기로 축소되었으나 실제 항성과 동일한 핵융합 반응과 초강력 자기장을 방출하는 소형 백색왜성입니다."
+  },
+  {
+    "level": 150,
+    "scp_id": "SCP-050",
+    "name": "가장 영리한 자에게",
+    "object_class": "Euclid",
+    "series": "5단계: Euclid 인간형·공간 변칙 (Lv.121 ~ Lv.150)",
+    "points": 73724998185906,
+    "image": "assets/scp/lv_150.png",
+    "desc": "[일련번호: SCP-050 · 격리 등급: Euclid] 원숭이 조각상으로, 주인을 골탕 먹이는 정교한 장난을 치며 재단 연구원들의 기지 대결을 유발한 전설의 유물입니다."
+  },
+  {
+    "level": 151,
+    "scp_id": "SCP-052",
+    "name": "시간여행 열차",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 89944497786805,
+    "image": "assets/scp/lv_151.png",
+    "desc": "[일련번호: SCP-052 · 격리 등급: Euclid] 뉴욕 지하철에 가끔 나타나는 1932년형 A노선 열차로, 탑승하면 과거 혹은 수백 년 뒤의 미래 시간대로 끌려가게 됩니다."
+  },
+  {
+    "level": 152,
+    "scp_id": "SCP-056",
+    "name": "더 나은 당신",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 109732287299902,
+    "image": "assets/scp/lv_152.png",
+    "desc": "[일련번호: SCP-056 · 격리 등급: Euclid] 주변에 있는 사람의 외모, 지능, 재능보다 항상 한 단계 더 우월하고 완벽한 모습으로 실시간 변신하여 열등감을 자극하는 존재입니다."
+  },
+  {
+    "level": 153,
+    "scp_id": "SCP-074",
+    "name": "양자 쥐며느리",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 133873390505880,
+    "image": "assets/scp/lv_153.png",
+    "desc": "[일련번호: SCP-074 · 격리 등급: Euclid] 자동차 크기의 거대 등각류 괴물로, 양자 터널링 효과를 이용해 밀폐된 격리실 벽을 통과하고 방사능 기생 유충을 퍼뜨립니다."
+  },
+  {
+    "level": 154,
+    "scp_id": "SCP-077",
+    "name": "부패 두개골",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 163325536417174,
+    "image": "assets/scp/lv_154.png",
+    "desc": "[일련번호: SCP-077 · 격리 등급: Euclid] 룬 문자가 새겨진 두개골로, 매달 누군가 큰 소리로 룬을 읽어주지 않으면 반경 수백 미터를 녹이는 치명적 부패 포자를 방출합니다."
+  },
+  {
+    "level": 155,
+    "scp_id": "SCP-078",
+    "name": "죄책감",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 199257154428952,
+    "image": "assets/scp/lv_155.png",
+    "desc": "[일련번호: SCP-078 · 격리 등급: Euclid] '변명의 여지가 없다'라고 적힌 분홍색 네온사인으로, 바라본 사람이 평생 지은 사소한 죄책감을 극대화해 자살에 이르게 합니다."
+  },
+  {
+    "level": 156,
+    "scp_id": "SCP-080",
+    "name": "부기맨",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 243093728403322,
+    "image": "assets/scp/lv_156.png",
+    "desc": "[일련번호: SCP-080 · 격리 등급: Euclid] 빛을 완전히 흡수하는 검은 인간형 안개로, 오직 어둠 속에서만 형체를 유지하며 바라보는 이를 극심한 수면마비에 빠뜨립니다."
+  },
+  {
+    "level": 157,
+    "scp_id": "SCP-083",
+    "name": "버려진 연립주택",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 296574348652052,
+    "image": "assets/scp/lv_157.png",
+    "desc": "[일련번호: SCP-083 · 격리 등급: Euclid] 내부의 가구와 방 구조가 들어갈 때마다 계속해서 바뀌며 창문 밖으로는 19세기 풍경이 보이는 기묘한 폐건물입니다."
+  },
+  {
+    "level": 158,
+    "scp_id": "SCP-084",
+    "name": "정지된 방송탑",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 361820705355504,
+    "image": "assets/scp/lv_158.png",
+    "desc": "[일련번호: SCP-084 · 격리 등급: Euclid] 주변 반경 200m의 시공간의 흐름을 고장 난 비디오처럼 뒤틀어, 내부 사람들이 같은 행동을 영원히 반복하게 만드는 송신탑입니다."
+  },
+  {
+    "level": 159,
+    "scp_id": "SCP-089",
+    "name": "토펫",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 441421260533714,
+    "image": "assets/scp/lv_159.png",
+    "desc": "[일련번호: SCP-089 · 격리 등급: Euclid] 청동 황소 조각상으로, 세계적인 대재앙이 닥칠 때마다 조각상이 지목한 어머니가 스스로 아이를 화염 제단에 바치게 강요하는 잔혹한 유물입니다."
+  },
+  {
+    "level": 160,
+    "scp_id": "SCP-200",
+    "name": "번데기",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 538533937851132,
+    "image": "assets/scp/lv_160.png",
+    "desc": "[일련번호: SCP-200 · 격리 등급: Euclid] 거대한 나방 고치 속에서 잠든 남성이 수십 년간 변태를 거듭하고 있는 생물학적 변칙 개체입니다."
+  },
+  {
+    "level": 161,
+    "scp_id": "SCP-203",
+    "name": "고문당한 철인",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 657011404178381,
+    "image": "assets/scp/lv_161.png",
+    "desc": "[일련번호: SCP-203 · 격리 등급: Euclid] 전신의 골격이 용접된 금속 외골격으로 대체되어 움직일 때마다 귀청을 찢는 쇳소리와 비명을 내는 인간형 개체입니다."
+  },
+  {
+    "level": 162,
+    "scp_id": "SCP-214",
+    "name": "혈액순환 변이 바이러스",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 801553913097624,
+    "image": "assets/scp/lv_162.png",
+    "desc": "[일련번호: SCP-214 · 격리 등급: Euclid] 감염자의 혈액과 림프액을 수은과 유사한 고밀도 액체 금속으로 치환하고 통각을 쾌감으로 역전시키는 신경 변이체입니다."
+  },
+  {
+    "level": 163,
+    "scp_id": "SCP-224",
+    "name": "할아버지의 괘종시계",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 977895773979102,
+    "image": "assets/scp/lv_163.png",
+    "desc": "[일련번호: SCP-224 · 격리 등급: Euclid] 종이 울릴 때마다 주변 공간의 시간 흐름을 수백 배 가속시켜 그 방에 있던 사람과 사물을 순식간에 노화·풍화시키는 골동품 시계입니다."
+  },
+  {
+    "level": 164,
+    "scp_id": "SCP-225",
+    "name": "멈출 수 없는 것과 움직이지 않는 것",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 1193032844254504,
+    "image": "assets/scp/lv_164.png",
+    "desc": "[일련번호: SCP-225 · 격리 등급: Euclid] 절대 멈추지 않고 태양계를 공전하는 금속 구체와 지구 궤도에 절대 고정된 구체 한 쌍으로, 둘이 충돌하면 우주적 참사가 예고된 천체입니다."
+  },
+  {
+    "level": 165,
+    "scp_id": "SCP-229",
+    "name": "전선 잡초",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 1455500069990495,
+    "image": "assets/scp/lv_165.png",
+    "desc": "[일련번호: SCP-229 · 격리 등급: Euclid] 식물 줄기 대신 살아있는 고압 구리 전선과 광케이블로 자라나 발전소와 인간의 척추 신경망에 기생하는 금속 기생 식물입니다."
+  },
+  {
+    "level": 166,
+    "scp_id": "SCP-230",
+    "name": "세상에서 가장 명랑한 남자",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 1775710085388404,
+    "image": "assets/scp/lv_166.png",
+    "desc": "[일련번호: SCP-230 · 격리 등급: Euclid] 피부 모공에서 마약성 다행증 페로몬을 뿜어내어 주변 모든 사람을 광적인 행복 중독자로 만들어 버리는 남성입니다."
+  },
+  {
+    "level": 167,
+    "scp_id": "SCP-312",
+    "name": "대기 해파리",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 2166366304173853,
+    "image": "assets/scp/lv_167.png",
+    "desc": "[일련번호: SCP-312 · 격리 등급: Euclid] 구름 속에 숨어 하늘을 유영하는 거대한 투명 해파리 포식자로, 지상의 외로운 목표물 머리 위에 먹구름을 드리우고 촉수로 낚아챕니다."
+  },
+  {
+    "level": 168,
+    "scp_id": "SCP-329",
+    "name": "암 정원",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 2642966891092100,
+    "image": "assets/scp/lv_168.png",
+    "desc": "[일련번호: SCP-329 · 격리 등급: Euclid] 수백 미터 길이의 살아있는 인간 암세포 덩어리들로 이루어진 정원과 그것을 정성껏 가꾸는 유령 정원사가 존재하는 변칙 공간입니다."
+  },
+  {
+    "level": 169,
+    "scp_id": "SCP-342",
+    "name": "편도 승차권",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 3224419607132362,
+    "image": "assets/scp/lv_169.png",
+    "desc": "[일련번호: SCP-342 · 격리 등급: Euclid] 대중교통에 탑승할 때 주머니 속에서 저절로 그 차량의 승차권으로 바뀌며, 한 번 타면 절대 내릴 수 없이 차량과 함께 차원 너머로 소멸하게 됩니다."
+  },
+  {
+    "level": 170,
+    "scp_id": "SCP-444",
+    "name": "통일된 바벨의 언어",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 3933791920701482,
+    "image": "assets/scp/lv_170.png",
+    "desc": "[일련번호: SCP-444 · 격리 등급: Euclid] 한 번 배우면 모국어를 완전히 잊어버리고 분노·자비·복종 등 기본 개념이 결여된 변칙 언어로만 사고하게 만드는 전염성 언어 밈입니다."
+  },
+  {
+    "level": 171,
+    "scp_id": "SCP-451",
+    "name": "미스터 외톨이",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 4799226143255808,
+    "image": "assets/scp/lv_171.png",
+    "desc": "[일련번호: SCP-451 · 격리 등급: Euclid] 인식 반전 재해를 겪어 자신의 눈과 귀에는 세상의 모든 인간이 완전히 투명하고 들리지 않아 인류가 멸망했다고 착각하며 살아가는 전직 요원입니다."
+  },
+  {
+    "level": 172,
+    "scp_id": "SCP-470",
+    "name": "버려진 건물들의 교차로",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 5855055894772085,
+    "image": "assets/scp/lv_172.png",
+    "desc": "[일련번호: SCP-470 · 격리 등급: Euclid] 전 세계의 모든 방치된 폐건물과 폐공장의 문들이 차원적으로 한데 연결되어 들락날락할 수 있는 시공간 허브 폐건물입니다."
+  },
+  {
+    "level": 173,
+    "scp_id": "SCP-484",
+    "name": "기억 강탈 약물",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 7143168191621944,
+    "image": "assets/scp/lv_173.png",
+    "desc": "[일련번호: SCP-484 · 격리 등급: Euclid] 복용하면 타인의 소중한 기억을 통째로 훔쳐 자신의 기억으로 흡수하고 피해자는 치매 상태에 빠지게 만드는 변칙 향정신성 물질입니다."
+  },
+  {
+    "level": 174,
+    "scp_id": "SCP-511",
+    "name": "지하실 고양이",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 8714665193778771,
+    "image": "assets/scp/lv_174.png",
+    "desc": "[일련번호: SCP-511 · 격리 등급: Euclid] 고양이 수십 마리를 좁은 지하실에 방치할 때 발현하는 군집 괴물로, 죽은 고양이 사체들과 살아있는 고양이가 하나로 엉켜 거대한 살점 야수가 됩니다."
+  },
+  {
+    "level": 175,
+    "scp_id": "SCP-538",
+    "name": "그림자 거미",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 10631891536410102,
+    "image": "assets/scp/lv_175.png",
+    "desc": "[일련번호: SCP-538 · 격리 등급: Euclid] 실제 거미가 아니라 거미의 '그림자'만이 살아 움직이는 2차원 포식자로, 피해자의 그림자를 물어 그 사람까지 그림자로 바꿔버립니다."
+  },
+  {
+    "level": 176,
+    "scp_id": "SCP-542",
+    "name": "프랑켄슈타인 박사",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 12970907674420322,
+    "image": "assets/scp/lv_176.png",
+    "desc": "[일련번호: SCP-542 · 격리 등급: Euclid] 자신의 노화된 장기와 팔다리를 젊은 사람들의 신체 부위로 직접 수술해 이어 붙이며 영생을 이어가는 독일인 외과의사입니다."
+  },
+  {
+    "level": 177,
+    "scp_id": "SCP-554",
+    "name": "완벽한 살인 미스터리",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 15824507362792792,
+    "image": "assets/scp/lv_177.png",
+    "desc": "[일련번호: SCP-554 · 격리 등급: Euclid] 고풍스러운 영국 저택으로, 안으로 들어간 사람들은 저택이 연출하는 추리소설 속 살인사건의 피해자와 탐정 역할을 강제로 연기해야 합니다."
+  },
+  {
+    "level": 178,
+    "scp_id": "SCP-597",
+    "name": "만물의 어머니",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 19305898982607208,
+    "image": "assets/scp/lv_178.png",
+    "desc": "[일련번호: SCP-597 · 격리 등급: Euclid] 거대한 육괴 형태의 모성 생물로, 주변의 모든 포유류와 인간을 유아기 지능으로 퇴행시켜 자신의 품으로 기어들게 만듭니다."
+  },
+  {
+    "level": 179,
+    "scp_id": "SCP-600",
+    "name": "그 녀석",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 23553196758780796,
+    "image": "assets/scp/lv_179.png",
+    "desc": "[일련번호: SCP-600 · 격리 등급: Euclid] 이목구비도 털도 없는 매끈한 인간형 생물로, 마주친 사람이 마음속으로 떠올리는 지인의 모습과 성격을 어설프게 흉내 내며 다가옵니다."
+  },
+  {
+    "level": 180,
+    "scp_id": "SCP-617",
+    "name": "애완용 돌멩이",
+    "object_class": "Euclid",
+    "series": "6단계: Euclid 고위험 생물·인식재해 (Lv.151 ~ Lv.180)",
+    "points": 28734900045712564,
+    "image": "assets/scp/lv_180.png",
+    "desc": "[일련번호: SCP-617 · 격리 등급: Euclid] 눈알이 붙은 조약돌 장난감 같지만 지퍼가 열린 입속에 실제 인간의 치아와 성대를 지니고 주인을 세뇌해 생고기를 먹이게 만듭니다."
+  },
+  {
+    "level": 181,
+    "scp_id": "SCP-638",
+    "name": "1914년 시카고 연방준비은행 강도 사건",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 35056578055769328,
+    "image": "assets/scp/lv_181.png",
+    "desc": "[일련번호: SCP-638 · 격리 등급: Euclid] 은행 금고를 털던 강도단과 경비원들이 시공간 루프와 변칙 바이올린 연주 속에 갇혀 기괴한 살점 교향악단으로 융합된 현장입니다."
+  },
+  {
+    "level": 182,
+    "scp_id": "SCP-666",
+    "name": "영혼의 천막",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 42769025228038584,
+    "image": "assets/scp/lv_182.png",
+    "desc": "[일련번호: SCP-666 · 격리 등급: Euclid] 티베트의 유목민 천막으로, 중독자나 죄인이 안에 들어가면 자신이 저지른 가장 끔찍한 죄악의 지옥 환각을 겪고 개과천선하거나 발광합니다."
+  },
+  {
+    "level": 183,
+    "scp_id": "SCP-706",
+    "name": "완벽한 도자기 인형",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 52178210778207072,
+    "image": "assets/scp/lv_183.png",
+    "desc": "[일련번호: SCP-706 · 격리 등급: Euclid] 자신이 깨지기 쉬운 아름다운 도자기 인형이라 믿은 나머지 온몸의 피부와 조직이 실제로 하얀 백자 도자기로 변해버린 소녀입니다."
+  },
+  {
+    "level": 184,
+    "scp_id": "SCP-776",
+    "name": "젊음의 교단",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 63657417149412624,
+    "image": "assets/scp/lv_184.png",
+    "desc": "[일련번호: SCP-776 · 격리 등급: Euclid] 고대 황소 조각상 주위에서 피의 의식을 거행하면 의식 참여자들의 세포가 역노화하여 수백 년의 젊음을 얻는 대신 기괴한 부작용을 겪는 유물입니다."
+  },
+  {
+    "level": 185,
+    "scp_id": "SCP-823",
+    "name": "공포의 카니발",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 77662048922283392,
+    "image": "assets/scp/lv_185.png",
+    "desc": "[일련번호: SCP-823 · 격리 등급: Euclid] 갑자기 참혹한 집단 학살이 벌어지고 버려진 놀이공원으로, 경계선 안으로 발을 들이면 보이지 않는 힘에 의해 신체가 훼손되는 죽음의 구역입니다."
+  },
+  {
+    "level": 186,
+    "scp_id": "SCP-847",
+    "name": "마네킹",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 94747699685185744,
+    "image": "assets/scp/lv_186.png",
+    "desc": "[일련번호: SCP-847 · 격리 등급: Euclid] 여성용 백화점 마네킹으로, 살아있는 여성이 가까이 오면 관절을 기괴하게 꺾으며 달려들어 피부를 빼앗아 입으려 하는 적대적 조형물입니다."
+  },
+  {
+    "level": 187,
+    "scp_id": "SCP-882",
+    "name": "기계",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 115592193615926592,
+    "image": "assets/scp/lv_187.png",
+    "desc": "[일련번호: SCP-882 · 격리 등급: Euclid] 수천 개의 녹슨 톱니바퀴와 도르래, 체인이 아무 동력원 없이 맞물려 돌아가는 수십 톤짜리 고철 덩어리로, 부서진 신 교단이 신의 심장으로 숭배합니다."
+  },
+  {
+    "level": 188,
+    "scp_id": "SCP-902",
+    "name": "특수 격리 개체 #902",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 141022476211430464,
+    "image": "assets/scp/lv_188.png",
+    "desc": "[일련번호: SCP-902 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-902입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 189,
+    "scp_id": "SCP-904",
+    "name": "특수 격리 개체 #904",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 172047420977945152,
+    "image": "assets/scp/lv_189.png",
+    "desc": "[일련번호: SCP-904 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-904입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 190,
+    "scp_id": "SCP-906",
+    "name": "특수 격리 개체 #906",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 209897853593093088,
+    "image": "assets/scp/lv_190.png",
+    "desc": "[일련번호: SCP-906 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-906입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 191,
+    "scp_id": "SCP-908",
+    "name": "특수 격리 개체 #908",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 256075381383573568,
+    "image": "assets/scp/lv_191.png",
+    "desc": "[일련번호: SCP-908 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-908입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 192,
+    "scp_id": "SCP-910",
+    "name": "특수 격리 개체 #910",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 312411965287959744,
+    "image": "assets/scp/lv_192.png",
+    "desc": "[일련번호: SCP-910 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-910입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 193,
+    "scp_id": "SCP-912",
+    "name": "특수 격리 개체 #912",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 381142597651310848,
+    "image": "assets/scp/lv_193.png",
+    "desc": "[일련번호: SCP-912 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-912입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 194,
+    "scp_id": "SCP-916",
+    "name": "특수 격리 개체 #916",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 464993969134599296,
+    "image": "assets/scp/lv_194.png",
+    "desc": "[일련번호: SCP-916 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-916입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 195,
+    "scp_id": "SCP-918",
+    "name": "특수 격리 개체 #918",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 567292642344211072,
+    "image": "assets/scp/lv_195.png",
+    "desc": "[일련번호: SCP-918 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-918입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 196,
+    "scp_id": "SCP-920",
+    "name": "특수 격리 개체 #920",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 692097023659937536,
+    "image": "assets/scp/lv_196.png",
+    "desc": "[일련번호: SCP-920 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-920입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 197,
+    "scp_id": "SCP-922",
+    "name": "특수 격리 개체 #922",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 844358368865123712,
+    "image": "assets/scp/lv_197.png",
+    "desc": "[일련번호: SCP-922 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-922입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 198,
+    "scp_id": "SCP-924",
+    "name": "특수 격리 개체 #924",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 1030117210015450880,
+    "image": "assets/scp/lv_198.png",
+    "desc": "[일련번호: SCP-924 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-924입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 199,
+    "scp_id": "SCP-926",
+    "name": "특수 격리 개체 #926",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 1256742996218850048,
+    "image": "assets/scp/lv_199.png",
+    "desc": "[일련번호: SCP-926 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-926입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 200,
+    "scp_id": "SCP-928",
+    "name": "특수 격리 개체 #928",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 1533226455386997248,
+    "image": "assets/scp/lv_200.png",
+    "desc": "[일련번호: SCP-928 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-928입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 201,
+    "scp_id": "SCP-930",
+    "name": "특수 격리 개체 #930",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 1870536275572136448,
+    "image": "assets/scp/lv_201.png",
+    "desc": "[일련번호: SCP-930 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-930입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 202,
+    "scp_id": "SCP-932",
+    "name": "특수 격리 개체 #932",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 2282054256198006272,
+    "image": "assets/scp/lv_202.png",
+    "desc": "[일련번호: SCP-932 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-932입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 203,
+    "scp_id": "SCP-934",
+    "name": "특수 격리 개체 #934",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 2784106192561567744,
+    "image": "assets/scp/lv_203.png",
+    "desc": "[일련번호: SCP-934 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-934입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 204,
+    "scp_id": "SCP-936",
+    "name": "특수 격리 개체 #936",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 3396609554925112320,
+    "image": "assets/scp/lv_204.png",
+    "desc": "[일련번호: SCP-936 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-936입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 205,
+    "scp_id": "SCP-938",
+    "name": "특수 격리 개체 #938",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 4143863657008637440,
+    "image": "assets/scp/lv_205.png",
+    "desc": "[일련번호: SCP-938 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-938입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 206,
+    "scp_id": "SCP-940",
+    "name": "특수 격리 개체 #940",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 5055513661550536704,
+    "image": "assets/scp/lv_206.png",
+    "desc": "[일련번호: SCP-940 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-940입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 207,
+    "scp_id": "SCP-942",
+    "name": "특수 격리 개체 #942",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 6167726667091655680,
+    "image": "assets/scp/lv_207.png",
+    "desc": "[일련번호: SCP-942 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-942입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 208,
+    "scp_id": "SCP-944",
+    "name": "특수 격리 개체 #944",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 7524626533851820032,
+    "image": "assets/scp/lv_208.png",
+    "desc": "[일련번호: SCP-944 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-944입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 209,
+    "scp_id": "SCP-946",
+    "name": "특수 격리 개체 #946",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 9180044371299219456,
+    "image": "assets/scp/lv_209.png",
+    "desc": "[일련번호: SCP-946 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-946입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 210,
+    "scp_id": "SCP-948",
+    "name": "특수 격리 개체 #948",
+    "object_class": "Euclid",
+    "series": "7단계: Keter 포식·생물 재해 (Lv.181 ~ Lv.210)",
+    "points": 11199654132985047040,
+    "image": "assets/scp/lv_210.png",
+    "desc": "[일련번호: SCP-948 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-948입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 211,
+    "scp_id": "SCP-950",
+    "name": "특수 격리 개체 #950",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 13663578042241757184,
+    "image": "assets/scp/lv_211.png",
+    "desc": "[일련번호: SCP-950 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-950입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 212,
+    "scp_id": "SCP-952",
+    "name": "특수 격리 개체 #952",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 16669565211534942208,
+    "image": "assets/scp/lv_212.png",
+    "desc": "[일련번호: SCP-952 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-952입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 213,
+    "scp_id": "SCP-954",
+    "name": "특수 격리 개체 #954",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 20336869558072631296,
+    "image": "assets/scp/lv_213.png",
+    "desc": "[일련번호: SCP-954 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-954입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 214,
+    "scp_id": "SCP-956",
+    "name": "특수 격리 개체 #956",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 24810980860848611328,
+    "image": "assets/scp/lv_214.png",
+    "desc": "[일련번호: SCP-956 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-956입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 215,
+    "scp_id": "SCP-958",
+    "name": "특수 격리 개체 #958",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 30269396650235297792,
+    "image": "assets/scp/lv_215.png",
+    "desc": "[일련번호: SCP-958 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-958입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 216,
+    "scp_id": "SCP-960",
+    "name": "특수 격리 개체 #960",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 36928663913287065600,
+    "image": "assets/scp/lv_216.png",
+    "desc": "[일련번호: SCP-960 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-960입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 217,
+    "scp_id": "SCP-962",
+    "name": "특수 격리 개체 #962",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 45052969974210224128,
+    "image": "assets/scp/lv_217.png",
+    "desc": "[일련번호: SCP-962 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-962입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 218,
+    "scp_id": "SCP-964",
+    "name": "특수 격리 개체 #964",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 54964623368536473600,
+    "image": "assets/scp/lv_218.png",
+    "desc": "[일련번호: SCP-964 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-964입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 219,
+    "scp_id": "SCP-968",
+    "name": "특수 격리 개체 #968",
+    "object_class": "Euclid",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 67056840509614489600,
+    "image": "assets/scp/lv_219.png",
+    "desc": "[일련번호: SCP-968 · 격리 등급: Euclid] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-968입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 220,
+    "scp_id": "SCP-4000",
+    "name": "금기",
+    "object_class": "Esoteric",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 81809345421729677312,
+    "image": "assets/scp/lv_220.png",
+    "desc": "[일련번호: SCP-4000 · 격리 등급: Esoteric] 이름을 부르거나 동일한 호칭으로 두 번 지칭하는 순간 자신의 '이름'과 '정체성'을 요정들에게 빼앗기게 되는 신비롭고 위험한 이계의 숲입니다."
+  },
+  {
+    "level": 221,
+    "scp_id": "SCP-106",
+    "name": "늙은이",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 99807401414510198784,
+    "image": "assets/scp/lv_221.png",
+    "desc": "[일련번호: SCP-106 · 격리 등급: Keter] 검은 부식성 점액으로 덮인 부패한 노인 형태의 개체로, 모든 고체 벽을 통과하며 희생자를 자신의 '주머니 차원'으로 끌고 가 끝없는 공포 속에서 사냥합니다."
+  },
+  {
+    "level": 222,
+    "scp_id": "SCP-682",
+    "name": "죽일 수 없는 파충류",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 121765029725702455296,
+    "image": "assets/scp/lv_222.png",
+    "desc": "[일련번호: SCP-682 · 격리 등급: Keter] 지구상의 모든 생명체를 극도로 혐오하며, 어떠한 물리적·변칙적 파괴 시도에도 즉각적인 초고속 재생과 진화적 적응으로 살아남는 불멸의 거대 파충류 괴수입니다."
+  },
+  {
+    "level": 223,
+    "scp_id": "SCP-1048",
+    "name": "건축가 곰",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 148553336265357000704,
+    "image": "assets/scp/lv_223.png",
+    "desc": "[일련번호: SCP-1048 · 격리 등급: Keter] 겉보기엔 귀여운 갈색 테디베어처럼 돌아다니지만, 인간의 귀나 태아, 고철 등을 모아 잔혹한 복제 곰인형 군단을 만들어내는 위험 개체입니다."
+  },
+  {
+    "level": 224,
+    "scp_id": "SCP-610",
+    "name": "미워하는 살점",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 181235070243735502848,
+    "image": "assets/scp/lv_224.png",
+    "desc": "[일련번호: SCP-610 · 격리 등급: Keter] 시베리아 오지를 뒤덮은 초전염성 생체 변이 바이러스로, 접촉한 모든 유기체를 기괴하게 뒤틀린 붉은 살점 괴물과 생체 지형으로 융합시킵니다."
+  },
+  {
+    "level": 225,
+    "scp_id": "SCP-966",
+    "name": "수면 방해꾼",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 221106785697357332480,
+    "image": "assets/scp/lv_225.png",
+    "desc": "[일련번호: SCP-966 · 격리 등급: Keter] 적외선 파장에서만 보이는 투명한 포식자로, 인간 주변에서 특수 파동을 방출해 영구적인 불면증을 유발한 뒤 쇠약해진 먹잇감을 사냥합니다."
+  },
+  {
+    "level": 226,
+    "scp_id": "SCP-4666",
+    "name": "율맨",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 269750278550775922688,
+    "image": "assets/scp/lv_226.png",
+    "desc": "[일련번호: SCP-4666 · 격리 등급: Keter] 크리스마스 기간 눈 덮인 외딴 집을 찾아가 선물을 남기거나, 일가족을 잔혹하게 습격해 아이들을 납치해 가는 북극 설원의 고대 괴인입니다."
+  },
+  {
+    "level": 227,
+    "scp_id": "SCP-055",
+    "name": "[정체불명]",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 329095339831946641408,
+    "image": "assets/scp/lv_227.png",
+    "desc": "[일련번호: SCP-055 · 격리 등급: Keter] 격리실 문을 닫고 나오는 순간 그것의 형태·성질·존재 자체를 누구도 기억할 수 없게 만드는 자기보존적 궁극의 '항밈(Anti-meme)' 개체입니다."
+  },
+  {
+    "level": 228,
+    "scp_id": "SCP-2521",
+    "name": "●●|●●●●●|●●|●",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 401496314594974826496,
+    "image": "assets/scp/lv_228.png",
+    "desc": "[일련번호: SCP-2521 · 격리 등급: Keter] 문자나 음성으로 자신에 대한 정보를 기록하면 즉시 벽을 뚫고 나타나 그 기록물이나 발언자를 검은 촉수로 감싸 낚아채 사라지는 정보 포식 개체입니다."
+  },
+  {
+    "level": 229,
+    "scp_id": "SCP-3199",
+    "name": "인간, 반박됨",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 489825503805869326336,
+    "image": "assets/scp/lv_229.png",
+    "desc": "[일련번호: SCP-3199 · 격리 등급: Keter] 털 뽑힌 거대한 닭과 인간이 뒤섞인 듯한 흉측한 외형의 양서류형 포식자로, 입을 통해 파괴 불가능한 알을 끊임없이 낳으며 증식합니다."
+  },
+  {
+    "level": 230,
+    "scp_id": "SCP-169",
+    "name": "리바이어던",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 597587114643160563712,
+    "image": "assets/scp/lv_230.png",
+    "desc": "[일련번호: SCP-169 · 격리 등급: Keter] 대서양 해저에 잠들어 있는 몸길이 최대 8,000km의 초거대 해양 절지동물로, 숨을 쉴 때마다 군도의 지각이 흔들리고 지진이 발생합니다."
+  },
+  {
+    "level": 231,
+    "scp_id": "SCP-2845",
+    "name": "사슴",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 729056279864655872000,
+    "image": "assets/scp/lv_231.png",
+    "desc": "[일련번호: SCP-2845 · 격리 등급: Keter] 외계 혜성과 함께 지구에 강림한 사슴 형태의 고대 연금술 신으로, 주변 물질을 수소·헬륨·암모니아 기둥으로 즉시 변환시키며 복잡한 제의 절차로만 묶어둘 수 있습니다."
+  },
+  {
+    "level": 232,
+    "scp_id": "SCP-239",
+    "name": "마녀 소녀",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 889448661434880229376,
+    "image": "assets/scp/lv_232.png",
+    "desc": "[일련번호: SCP-239 · 격리 등급: Keter] 자신이 진짜라고 믿는 모든 상상을 즉시 현실로 구현하는 8세 소녀로, 세계 멸망을 막기 위해 재단이 '마법 주문서가 적힌 제한된 마녀 놀이'로 속인 채 의학적 수면에 재워두고 있습니다."
+  },
+  {
+    "level": 233,
+    "scp_id": "SCP-3125",
+    "name": "탈출자 (다섯째 신)",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 1085127366950553911296,
+    "image": "assets/scp/lv_233.png",
+    "desc": "[일련번호: SCP-3125 · 격리 등급: Keter] 인간의 인식 범위를 초월한 고차원 우주적 거대 밈 복합체로, 그 존재를 깨닫는 순간 대상과 주변 관련자들의 정신을 즉시 지워버리는 침공성 외계 사상체입니다."
+  },
+  {
+    "level": 234,
+    "scp_id": "SCP-2747",
+    "name": "아래의 나락, 위의 창공 (칠각가시)",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 1323855387679675383808,
+    "image": "assets/scp/lv_234.png",
+    "desc": "[일련번호: SCP-2747 · 격리 등급: Keter] 소설, 영화, 역사, 그리고 현실 서사 내부에 일곱 개의 가시와 검은 상징으로 발현하여 그 세계관과 우주 전체를 내부에서부터 말소시키는 초서사적 반(反)서사 존재입니다."
+  },
+  {
+    "level": 235,
+    "scp_id": "SCP-016",
+    "name": "지성 있는 미생물",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 1615103572969204219904,
+    "image": "assets/scp/lv_235.png",
+    "desc": "[일련번호: SCP-016 · 격리 등급: Keter] 숙주가 생명의 위협을 느끼면 수초 내에 숙주의 신체를 극한 환경에 적응한 괴물 형태로 급속 변이시키는 혈액 매개 병원체입니다."
+  },
+  {
+    "level": 236,
+    "scp_id": "SCP-017",
+    "name": "그림자 인간",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 1970426359022429143040,
+    "image": "assets/scp/lv_236.png",
+    "desc": "[일련번호: SCP-017 · 격리 등급: Keter] 작은 아이의 실루엣을 한 칠흑 같은 그림자 안개로, 자신에게 그림자를 드리우는 모든 물체와 사람을 순식간에 집어삼켜 소멸시킵니다."
+  },
+  {
+    "level": 237,
+    "scp_id": "SCP-019",
+    "name": "괴물 단지",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 2403920158007363633152,
+    "image": "assets/scp/lv_237.png",
+    "desc": "[일련번호: SCP-019 · 격리 등급: Keter] 고대 그리스 도자기 항아리로, 내부에서 발톱 달린 소형 괴물(SCP-019-2)들이 끊임없이 생성되어 기어 나옵니다."
+  },
+  {
+    "level": 238,
+    "scp_id": "SCP-020",
+    "name": "보이지 않는 곰팡이",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 2932782592768983171072,
+    "image": "assets/scp/lv_238.png",
+    "desc": "[일련번호: SCP-020 · 격리 등급: Keter] 육안으로는 절대 보이지 않으며 오직 카메라 렌즈로만 관찰되는 포자로, 감염자의 성격을 바꿔 집안을 곰팡이 배양소로 만들게 합니다."
+  },
+  {
+    "level": 239,
+    "scp_id": "SCP-029",
+    "name": "그림자의 딸",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 3577994763178159898624,
+    "image": "assets/scp/lv_239.png",
+    "desc": "[일련번호: SCP-029 · 격리 등급: Keter] 빛이 있는 곳에서는 연약한 소녀이지만 어둠 속에 들어가는 순간 강철도 맨손으로 찢어발기는 무적의 암살자로 변하는 여성입니다."
+  },
+  {
+    "level": 240,
+    "scp_id": "SCP-047",
+    "name": "미생물 변이원",
+    "object_class": "Keter",
+    "series": "8단계: Keter 밈·항밈·차원 위협 (Lv.211 ~ Lv.240)",
+    "points": 4365153611077354782720,
+    "image": "assets/scp/lv_240.png",
+    "desc": "[일련번호: SCP-047 · 격리 등급: Keter] 녹슨 가스통에서 새어 나오는 기체로, 피부의 무해한 상재균을 단숨에 치명적인 슈퍼 박테리아로 돌연변이시킵니다."
+  },
+  {
+    "level": 241,
+    "scp_id": "SCP-060",
+    "name": "지옥불 해골",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 5325487405514372415488,
+    "image": "assets/scp/lv_241.png",
+    "desc": "[일련번호: SCP-060 · 격리 등급: Keter] 하얀 참나무를 태우면 그 연기 속에서 소환되어 반경 수백 미터를 백색 지옥불로 태워버리는 불타는 인간 해골입니다."
+  },
+  {
+    "level": 242,
+    "scp_id": "SCP-075",
+    "name": "부식성 달팽이",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 6497094634727534493696,
+    "image": "assets/scp/lv_242.png",
+    "desc": "[일련번호: SCP-075 · 격리 등급: Keter] 건조할 때는 돌멩이 같지만 습기에 닿는 순간 깨어나 초강산 부식액을 뿜으며 강철 격리벽을 녹여버리는 달팽이형 포식자입니다."
+  },
+  {
+    "level": 243,
+    "scp_id": "SCP-090",
+    "name": "코르네아 큐브",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 7926455454367591956480,
+    "image": "assets/scp/lv_243.png",
+    "desc": "[일련번호: SCP-090 · 격리 등급: Keter] 일초마다 스스로 회전하며 문양을 맞추는 1만 개의 조각으로 된 검은 루빅스 큐브로, 문양이 완성될 때마다 전 세계에 대재앙이 일어납니다."
+  },
+  {
+    "level": 244,
+    "scp_id": "SCP-204",
+    "name": "수호자",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 9670275654328462082048,
+    "image": "assets/scp/lv_244.png",
+    "desc": "[일련번호: SCP-204 · 격리 등급: Keter] 학대받은 어린아이를 숙주로 삼아 눈에 보이지 않는 나노 군집 장갑으로 감싸며 아이를 위협하는 모든 대상을 무자비하게 분쇄하는 공생체입니다."
+  },
+  {
+    "level": 245,
+    "scp_id": "SCP-259",
+    "name": "바이스글라이트 나선",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 11797736298280722104320,
+    "image": "assets/scp/lv_245.png",
+    "desc": "[일련번호: SCP-259 · 격리 등급: Keter] 프랙탈 기하학 문양으로, 컴퓨터 화면으로 렌더링이 완성되는 순간 공간 차원을 찢어 적대적 플라스마 구체나 이차원 괴수를 소환합니다."
+  },
+  {
+    "level": 246,
+    "scp_id": "SCP-271",
+    "name": "각인된 원반",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 14393238283902479499264,
+    "image": "assets/scp/lv_246.png",
+    "desc": "[일련번호: SCP-271 · 격리 등급: Keter] 미지의 문자가 양각된 작은 금속 원반으로, 주변의 모든 물질과 생명체에 똑같은 문자를 전염병처럼 새겨 넣어 돌과 금속으로 동화시킵니다."
+  },
+  {
+    "level": 247,
+    "scp_id": "SCP-352",
+    "name": "바바 야가",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 17559750706361027002368,
+    "image": "assets/scp/lv_247.png",
+    "desc": "[일련번호: SCP-352 · 격리 등급: Keter] 슬라브 신화의 노파 모습을 한 고대 육식 인간형 개체로, 머리카락 가닥을 투명한 거미줄처럼 뻗어 희생자를 포획하고 젊음을 회복합니다."
+  },
+  {
+    "level": 248,
+    "scp_id": "SCP-363",
+    "name": "지네가 아니야",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 21422895861760450887680,
+    "image": "assets/scp/lv_248.png",
+    "desc": "[일련번호: SCP-363 · 격리 등급: Keter] 평소엔 작은 지네 같지만 어둠 속에 들어가면 눈알과 아가리, 다리가 무수히 돋아난 10m 길이의 거대 유충 괴수로 폭주합니다."
+  },
+  {
+    "level": 249,
+    "scp_id": "SCP-579",
+    "name": "[데이터 말소]",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 26135932951347752599552,
+    "image": "assets/scp/lv_249.png",
+    "desc": "[일련번호: SCP-579 · 격리 등급: Keter] 그 정체와 외형에 대한 모든 기록이 철저히 말소된 채 오직 강력한 전자기장 공중부양 격리실로만 유지되는 재단 최고 기밀 Keter 개체입니다."
+  },
+  {
+    "level": 250,
+    "scp_id": "SCP-718",
+    "name": "눈알",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 31885838200644256661504,
+    "image": "assets/scp/lv_250.png",
+    "desc": "[일련번호: SCP-718 · 격리 등급: Keter] 야구공 크기의 살아있는 눈알에 긴 혈관 다리가 달린 생물로, 쳐다보면 눈물이 고이게 만들고 터뜨릴 경우 유체 조각마다 수십 개의 새 눈알로 증식합니다."
+  },
+  {
+    "level": 251,
+    "scp_id": "SCP-732",
+    "name": "팬픽 전염병",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 38900722604785985912832,
+    "image": "assets/scp/lv_251.png",
+    "desc": "[일련번호: SCP-732 · 격리 등급: Keter] 컴퓨터 파일에 감염되어 진지한 재단 기밀 보고서들을 유치하고 오글거리는 메리 수(Mary Sue) 자캐 팬픽 문체로 실시간 오염시키는 데이터 생명체입니다."
+  },
+  {
+    "level": 252,
+    "scp_id": "SCP-748",
+    "name": "산업 용해",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 47458881577838903820288,
+    "image": "assets/scp/lv_252.png",
+    "desc": "[일련번호: SCP-748 · 격리 등급: Keter] 공장(SCP-001)과 연결된 무한 증식 자동화 기계 공장으로, 도시와 인간을 쇳물과 부속품으로 갈아 넣어 변칙 병기를 찍어냅니다."
+  },
+  {
+    "level": 253,
+    "scp_id": "SCP-783",
+    "name": "구부러진 남자",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 57899835524963463331840,
+    "image": "assets/scp/lv_253.png",
+    "desc": "[일련번호: SCP-783 · 격리 등급: Keter] 영국의 한 주택가에 나타나 밤마다 잠든 거주자의 팔다리 뼈를 수십 마디로 꺾어 늘이면서 죽지도 못하게 살아있는 채로 신체를 변형시키는 그림자 괴이입니다."
+  },
+  {
+    "level": 254,
+    "scp_id": "SCP-804",
+    "name": "인간 없는 세계",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 70637799340455428620288,
+    "image": "assets/scp/lv_254.png",
+    "desc": "[일련번호: SCP-804 · 격리 등급: Keter] 지구본 모형 예술 작품으로, 가동시키면 반경 수 킬로미터 내의 모든 인공 건축물과 의복, 심지어 인간의 신체까지 초고속으로 부패·소멸시켜 원시 자연만 남깁니다."
+  },
+  {
+    "level": 255,
+    "scp_id": "SCP-870",
+    "name": "아마도 거기 있을 괴물",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 86178115195355623587840,
+    "image": "assets/scp/lv_255.png",
+    "desc": "[일련번호: SCP-870 · 격리 등급: Keter] 정신분열증 환자나 특정 약물 복용자의 눈에만 보이는 거대한 악어 머리 다족류 괴물로, 평범한 사람들의 눈앞에서 보이지 않게 사냥을 벌입니다."
+  },
+  {
+    "level": 256,
+    "scp_id": "SCP-901",
+    "name": "특수 격리 개체 #901",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 105137300538333855744000,
+    "image": "assets/scp/lv_256.png",
+    "desc": "[일련번호: SCP-901 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-901입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 257,
+    "scp_id": "SCP-903",
+    "name": "특수 격리 개체 #903",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 128267506656767312396288,
+    "image": "assets/scp/lv_257.png",
+    "desc": "[일련번호: SCP-903 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-903입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 258,
+    "scp_id": "SCP-905",
+    "name": "특수 격리 개체 #905",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 156486358121256105017344,
+    "image": "assets/scp/lv_258.png",
+    "desc": "[일련번호: SCP-905 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-905입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 259,
+    "scp_id": "SCP-907",
+    "name": "특수 격리 개체 #907",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 190913356907932423290880,
+    "image": "assets/scp/lv_259.png",
+    "desc": "[일련번호: SCP-907 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-907입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 260,
+    "scp_id": "SCP-909",
+    "name": "특수 격리 개체 #909",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 232914295427677563125760,
+    "image": "assets/scp/lv_260.png",
+    "desc": "[일련번호: SCP-909 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-909입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 261,
+    "scp_id": "SCP-911",
+    "name": "특수 격리 개체 #911",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 284155440421766657212416,
+    "image": "assets/scp/lv_261.png",
+    "desc": "[일련번호: SCP-911 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-911입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 262,
+    "scp_id": "SCP-913",
+    "name": "특수 격리 개체 #913",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 346669637314555242610688,
+    "image": "assets/scp/lv_262.png",
+    "desc": "[일련번호: SCP-913 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-913입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 263,
+    "scp_id": "SCP-915",
+    "name": "특수 격리 개체 #915",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 422936957523757446987776,
+    "image": "assets/scp/lv_263.png",
+    "desc": "[일련번호: SCP-915 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-915입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 264,
+    "scp_id": "SCP-917",
+    "name": "특수 격리 개체 #917",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 515983088178984019558400,
+    "image": "assets/scp/lv_264.png",
+    "desc": "[일련번호: SCP-917 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-917입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 265,
+    "scp_id": "SCP-919",
+    "name": "특수 격리 개체 #919",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 629499367578360570970112,
+    "image": "assets/scp/lv_265.png",
+    "desc": "[일련번호: SCP-919 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-919입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 266,
+    "scp_id": "SCP-921",
+    "name": "특수 격리 개체 #921",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 767989228445599912689664,
+    "image": "assets/scp/lv_266.png",
+    "desc": "[일련번호: SCP-921 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-921입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 267,
+    "scp_id": "SCP-923",
+    "name": "특수 격리 개체 #923",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 936946858703631710945280,
+    "image": "assets/scp/lv_267.png",
+    "desc": "[일련번호: SCP-923 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-923입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 268,
+    "scp_id": "SCP-925",
+    "name": "특수 격리 개체 #925",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 1143075167618430660509696,
+    "image": "assets/scp/lv_268.png",
+    "desc": "[일련번호: SCP-925 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-925입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 269,
+    "scp_id": "SCP-927",
+    "name": "특수 격리 개체 #927",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 1394551704494485266235392,
+    "image": "assets/scp/lv_269.png",
+    "desc": "[일련번호: SCP-927 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-927입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 270,
+    "scp_id": "SCP-929",
+    "name": "특수 격리 개체 #929",
+    "object_class": "Keter",
+    "series": "9단계: Keter/Thaumiel 재단 최고기밀 (Lv.241 ~ Lv.270)",
+    "points": 1701353079483272282505216,
+    "image": "assets/scp/lv_270.png",
+    "desc": "[일련번호: SCP-929 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-929입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 271,
+    "scp_id": "SCP-931",
+    "name": "특수 격리 개체 #931",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 2075650756969592206131200,
+    "image": "assets/scp/lv_271.png",
+    "desc": "[일련번호: SCP-931 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-931입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 272,
+    "scp_id": "SCP-933",
+    "name": "특수 격리 개체 #933",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 2532293923502902223044608,
+    "image": "assets/scp/lv_272.png",
+    "desc": "[일련번호: SCP-933 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-933입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 273,
+    "scp_id": "SCP-935",
+    "name": "특수 격리 개체 #935",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 3089398586673540722851840,
+    "image": "assets/scp/lv_273.png",
+    "desc": "[일련번호: SCP-935 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-935입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 274,
+    "scp_id": "SCP-937",
+    "name": "특수 격리 개체 #937",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 3769066275741719198695424,
+    "image": "assets/scp/lv_274.png",
+    "desc": "[일련번호: SCP-937 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-937입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 275,
+    "scp_id": "SCP-941",
+    "name": "특수 격리 개체 #941",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 4598260856404897723056128,
+    "image": "assets/scp/lv_275.png",
+    "desc": "[일련번호: SCP-941 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-941입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 276,
+    "scp_id": "SCP-943",
+    "name": "특수 격리 개체 #943",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 5609878244813975125491712,
+    "image": "assets/scp/lv_276.png",
+    "desc": "[일련번호: SCP-943 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-943입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 277,
+    "scp_id": "SCP-945",
+    "name": "특수 격리 개체 #945",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 6844051458673049803423744,
+    "image": "assets/scp/lv_277.png",
+    "desc": "[일련번호: SCP-945 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-945입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 278,
+    "scp_id": "SCP-947",
+    "name": "특수 격리 개체 #947",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 8349742779581120416579584,
+    "image": "assets/scp/lv_278.png",
+    "desc": "[일련번호: SCP-947 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-947입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 279,
+    "scp_id": "SCP-949",
+    "name": "특수 격리 개체 #949",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 10186686191088965813010432,
+    "image": "assets/scp/lv_279.png",
+    "desc": "[일련번호: SCP-949 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-949입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 280,
+    "scp_id": "SCP-951",
+    "name": "특수 격리 개체 #951",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 12427757153128538334822400,
+    "image": "assets/scp/lv_280.png",
+    "desc": "[일련번호: SCP-951 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-951입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 281,
+    "scp_id": "SCP-953",
+    "name": "특수 격리 개체 #953",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 15161863726816816768483328,
+    "image": "assets/scp/lv_281.png",
+    "desc": "[일련번호: SCP-953 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-953입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 282,
+    "scp_id": "SCP-955",
+    "name": "특수 격리 개체 #955",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 18497473746716516629348352,
+    "image": "assets/scp/lv_282.png",
+    "desc": "[일련번호: SCP-955 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-955입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 283,
+    "scp_id": "SCP-957",
+    "name": "특수 격리 개체 #957",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 22566917970994151833993216,
+    "image": "assets/scp/lv_283.png",
+    "desc": "[일련번호: SCP-957 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-957입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 284,
+    "scp_id": "SCP-959",
+    "name": "특수 격리 개체 #959",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 27531639924612864722075648,
+    "image": "assets/scp/lv_284.png",
+    "desc": "[일련번호: SCP-959 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-959입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 285,
+    "scp_id": "SCP-961",
+    "name": "특수 격리 개체 #961",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 33588600708027693414744064,
+    "image": "assets/scp/lv_285.png",
+    "desc": "[일련번호: SCP-961 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-961입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 286,
+    "scp_id": "SCP-965",
+    "name": "특수 격리 개체 #965",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 40978092863793781756919808,
+    "image": "assets/scp/lv_286.png",
+    "desc": "[일련번호: SCP-965 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-965입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 287,
+    "scp_id": "SCP-967",
+    "name": "특수 격리 개체 #967",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 49993273293828411338260480,
+    "image": "assets/scp/lv_287.png",
+    "desc": "[일련번호: SCP-967 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-967입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 288,
+    "scp_id": "SCP-969",
+    "name": "특수 격리 개체 #969",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 60991793418470672140599296,
+    "image": "assets/scp/lv_288.png",
+    "desc": "[일련번호: SCP-969 · 격리 등급: Keter] 재단 제19기지 심층 격리 구역에 보관 중인 변칙 개체 SCP-969입니다. 시공간 왜곡 및 인지 변칙성을 지니고 있어 엄격한 특수 격리 절차가 요구됩니다."
+  },
+  {
+    "level": 289,
+    "scp_id": "SCP-3000",
+    "name": "아난타세샤",
+    "object_class": "Thaumiel",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 74409987970534208329220096,
+    "image": "assets/scp/lv_289.png",
+    "desc": "[일련번호: SCP-3000 · 격리 등급: Thaumiel] 벵골만 심해에 서식하는 길이 900km의 초거대 곰치형 고대 신적 존재로, 인간의 의식을 잠식하는 대신 재단 최고 등급 기억소거제의 핵심 원료(Y-909)를 분비합니다."
+  },
+  {
+    "level": 290,
+    "scp_id": "SCP-2000",
+    "name": "데우스 엑스 마키나",
+    "object_class": "Thaumiel",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 90780185324051739659206656,
+    "image": "assets/scp/lv_290.png",
+    "desc": "[일련번호: SCP-2000 · 격리 등급: Thaumiel] 옐로스톤 국립공원 지하에 건설된 재단 최후의 보루로, 인류 문명이 멸망할 경우 수백만 명의 복제 인간과 역사를 재건하는 거대 지하 복제 시설입니다."
+  },
+  {
+    "level": 291,
+    "scp_id": "SCP-222",
+    "name": "복제의 관",
+    "object_class": "Thaumiel",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 110751826095343096958025728,
+    "image": "assets/scp/lv_291.png",
+    "desc": "[일련번호: SCP-222 · 격리 등급: Thaumiel] 로마 카타콤의 돌관으로, 안에 들어가 잠들면 인근 토양에서 대상과 똑같은 복제 인간이 흙으로 빚어져 걸어 나옵니다."
+  },
+  {
+    "level": 292,
+    "scp_id": "SCP-2317",
+    "name": "이계로 통하는 문",
+    "object_class": "Apollyon",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 135117227836318591345491968,
+    "image": "assets/scp/lv_292.png",
+    "desc": "[일련번호: SCP-2317 · 격리 등급: Apollyon] 나무 문을 열면 소금 사막 지하에 일곱 사슬로 묶인 초거대 뿔 달린 고대 파멸신(세계를 삼키는 자)이 있으며, 사슬이 하나씩 끊어지고 있어 격리가 불가능합니다."
+  },
+  {
+    "level": 293,
+    "scp_id": "SCP-3001",
+    "name": "적색 현실",
+    "object_class": "Euclid",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 164843017960308656702488576,
+    "image": "assets/scp/lv_293.png",
+    "desc": "[일련번호: SCP-3001 · 격리 등급: Euclid] 현실성(흄 수치)이 거의 0에 수렴하는 차원 틈새의 공허 공간으로, 그곳에 갇힌 스크랜턴 박사가 작은 붉은 불빛 하나에 의지해 수년간 분해되어 간 비극적 기록입니다."
+  },
+  {
+    "level": 294,
+    "scp_id": "SCP-3999",
+    "name": "나는 내게 일어나는 모든 것의 중심에 있다",
+    "object_class": "Apollyon",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 201108481911576559802646528,
+    "image": "assets/scp/lv_294.png",
+    "desc": "[일련번호: SCP-3999 · 격리 등급: Apollyon] 탈로란 연구원 개인에게 집착하여 수백만 년간 우주의 물리 법칙과 현실 자체를 뒤틀며 끝없는 고통과 부조리를 반복시킨 혼돈의 서사 현실조작체입니다."
+  },
+  {
+    "level": 295,
+    "scp_id": "SCP-001-GATE",
+    "name": "게이트 가디언 (우리엘)",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 245352347932123450375667712,
+    "image": "assets/scp/lv_295.png",
+    "desc": "[일련번호: SCP-001-GATE · 격리 등급: Keter] 티그리스·유프라테스강 교차점에 서 있는 300규빗 높이의 빛나는 날개 달린 거신으로, 태양보다 뜨거운 화염 검으로 반경 1km 내의 모든 침입자를 원자 단위로 소멸시킵니다."
+  },
+  {
+    "level": 296,
+    "scp_id": "SCP-001-MEKHANE",
+    "name": "부서진 신 (메카네)",
+    "object_class": "Apollyon",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 299329864477190575785771008,
+    "image": "assets/scp/lv_296.png",
+    "desc": "[일련번호: SCP-001-MEKHANE · 격리 등급: Apollyon] 과거 인류에게 지성과 문명을 부여하기 위해 스스로의 육체를 부숴 살점의 신 얄다바오트를 봉인했던 기계신이자, 부품들이 하나로 모여 재기동한 기계 거신입니다."
+  },
+  {
+    "level": 297,
+    "scp_id": "SCP-001-DAWN",
+    "name": "여명이 밝아올 때",
+    "object_class": "Apollyon",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 365182434662172508643393536,
+    "image": "assets/scp/lv_297.png",
+    "desc": "[일련번호: SCP-001-DAWN · 격리 등급: Apollyon] 태양이 붉게 변이하여 햇빛에 노출된 지구상의 모든 생명체를 죽지 않는 하나의 거대한 액체 살점 군집체로 녹여버리는 XK급 세계 멸망 시나리오입니다."
+  },
+  {
+    "level": 298,
+    "scp_id": "SCP-001-FACTORY",
+    "name": "공장",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 445522570287850376707178496,
+    "image": "assets/scp/lv_298.png",
+    "desc": "[일련번호: SCP-001-FACTORY · 격리 등급: Keter] 19세기 말 세워진 악마적 초대형 산업 단지로, 인간을 제물로 삼아 온갖 변칙 물체들을 대량 생산해냈으며 SCP 재단 탄생의 시초가 된 근원지입니다."
+  },
+  {
+    "level": 299,
+    "scp_id": "SCP-001-SCARLET",
+    "name": "주홍왕 (스칼렛 킹)",
+    "object_class": "Apollyon",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 543537535751177499440054272,
+    "image": "assets/scp/lv_299.png",
+    "desc": "[일련번호: SCP-001-SCARLET · 격리 등급: Apollyon] 창조와 존재 자체의 고통에 분노하여 모든 평행우주와 생명의 나무를 불태우고 무(無)로 되돌리려는 일곱 봉인의 고대 파멸신입니다."
+  },
+  {
+    "level": 300,
+    "scp_id": "SCP-3812",
+    "name": "내 뒤의 목소리",
+    "object_class": "Keter",
+    "series": "10단계: Apollyon & SCP-001 초월 신격 (Lv.271 ~ Lv.300)",
+    "points": 663115793616436587799773184,
+    "image": "assets/scp/lv_300.png",
+    "desc": "[일련번호: SCP-3812 · 격리 등급: Keter] 자신을 창조한 상위 서사 계층(작가의 세계)을 포함하여 무한히 이어지는 모든 현실과 상위 차원의 서사 계층을 끝없이 초월하며 올라가는 궁극의 초월 서사 존재입니다."
+  }
+]
