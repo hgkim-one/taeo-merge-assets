@@ -4,7 +4,7 @@
     "symbol": "H",
     "name": "수소(H)",
     "character_title": "수소 정령 픽시",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "1주기 원소 (1~2 · H~He)",
     "points": 10,
     "image": "assets/elements/lv_001.png",
     "visual_prompt": "Blue glowing water-drop fairy pixie with H emblem",
@@ -15,7 +15,7 @@
     "symbol": "He",
     "name": "헬륨(He)",
     "character_title": "헬륨 풍선 요정",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "1주기 원소 (1~2 · H~He)",
     "points": 13,
     "image": "assets/elements/lv_002.png",
     "visual_prompt": "Floating pastel pink balloon sylph sprite",
@@ -26,7 +26,7 @@
     "symbol": "Li",
     "name": "리튬(Li)",
     "character_title": "리튬 번개 임프",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 16,
     "image": "assets/elements/lv_003.png",
     "visual_prompt": "Electric battery spark imp with glowing cyan horns",
@@ -37,7 +37,7 @@
     "symbol": "Be",
     "name": "베릴륨(Be)",
     "character_title": "베릴륨 에메랄드 요정",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 21,
     "image": "assets/elements/lv_004.png",
     "visual_prompt": "Emerald crystal gem sprite with green shield",
@@ -48,7 +48,7 @@
     "symbol": "B",
     "name": "붕소(B)",
     "character_title": "붕소 흑결정 고블린",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 27,
     "image": "assets/elements/lv_005.png",
     "visual_prompt": "Dark boron crystal alchemist goblin",
@@ -59,7 +59,7 @@
     "symbol": "C",
     "name": "탄소(C)",
     "character_title": "탄소 흑연 기사",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 34,
     "image": "assets/elements/lv_006.png",
     "visual_prompt": "Graphite & diamond dual-armored knight",
@@ -70,7 +70,7 @@
     "symbol": "N",
     "name": "질소(N)",
     "character_title": "질소 냉기 아처",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 44,
     "image": "assets/elements/lv_007.png",
     "visual_prompt": "Liquid nitrogen frost archer in mist cloak",
@@ -81,7 +81,7 @@
     "symbol": "O",
     "name": "산소(O)",
     "character_title": "산소 생명 프리스트",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 56,
     "image": "assets/elements/lv_008.png",
     "visual_prompt": "Sky-blue aura life healer priestess",
@@ -92,7 +92,7 @@
     "symbol": "F",
     "name": "플루오린(F)",
     "character_title": "플루오린 맹독 어쌔신",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 72,
     "image": "assets/elements/lv_009.png",
     "visual_prompt": "Yellow-green corrosive venom ninja assassin",
@@ -103,7 +103,7 @@
     "symbol": "Ne",
     "name": "네온(Ne)",
     "character_title": "네온 사이버 댄서",
-    "series": "1~2주기 원소 (1~10)",
+    "series": "2주기 원소 (3~10 · Li~Ne)",
     "points": 92,
     "image": "assets/elements/lv_010.png",
     "visual_prompt": "Neon sign glowing cyberpunk fairy dancer",
@@ -114,7 +114,7 @@
     "symbol": "Na",
     "name": "나트륨(Na)",
     "character_title": "나트륨 폭발 봄버",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 118,
     "image": "assets/elements/lv_011.png",
     "visual_prompt": "Salty flame reactive alchemist bomber",
@@ -125,7 +125,7 @@
     "symbol": "Mg",
     "name": "마그네슘(Mg)",
     "character_title": "마그네슘 섬광 궁수",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 151,
     "image": "assets/elements/lv_012.png",
     "visual_prompt": "Blinding white flare starlight archer",
@@ -136,7 +136,7 @@
     "symbol": "Al",
     "name": "알루미늄(Al)",
     "character_title": "알루미늄 은빛 스카우트",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 193,
     "image": "assets/elements/lv_013.png",
     "visual_prompt": "Lightweight silver-winged sky scout",
@@ -147,7 +147,7 @@
     "symbol": "Si",
     "name": "규소(Si)",
     "character_title": "규소 실리콘 골렘",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 248,
     "image": "assets/elements/lv_014.png",
     "visual_prompt": "Circuit-board & quartz crystal tech golem",
@@ -158,7 +158,7 @@
     "symbol": "P",
     "name": "인(P)",
     "character_title": "인 도깨비불 위자드",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 317,
     "image": "assets/elements/lv_015.png",
     "visual_prompt": "Will-o'-the-wisp red/white phosphorus mage",
@@ -169,7 +169,7 @@
     "symbol": "S",
     "name": "황(S)",
     "character_title": "황 유황 화염마",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 406,
     "image": "assets/elements/lv_016.png",
     "visual_prompt": "Brimstone yellow volcanic sulfur fiend",
@@ -180,7 +180,7 @@
     "symbol": "Cl",
     "name": "염소(Cl)",
     "character_title": "염소 독안개 위치",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 519,
     "image": "assets/elements/lv_017.png",
     "visual_prompt": "Green chlorine toxic gas plague witch",
@@ -191,7 +191,7 @@
     "symbol": "Ar",
     "name": "아르곤(Ar)",
     "character_title": "아르곤 자색 실드메이지",
-    "series": "3주기 원소 (11~18)",
+    "series": "3주기 원소 (11~18 · Na~Ar)",
     "points": 665,
     "image": "assets/elements/lv_018.png",
     "visual_prompt": "Purple noble-gas barrier shield mage",
@@ -202,7 +202,7 @@
     "symbol": "K",
     "name": "칼륨(K)",
     "character_title": "칼륨 보라불꽃 버서커",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 851,
     "image": "assets/elements/lv_019.png",
     "visual_prompt": "Violet-flame water-reactive berserker",
@@ -213,7 +213,7 @@
     "symbol": "Ca",
     "name": "칼슘(Ca)",
     "character_title": "칼슘 백골 수호병",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 1000,
     "image": "assets/elements/lv_020.png",
     "visual_prompt": "Ivory bone-armor skeleton guardian",
@@ -224,18 +224,18 @@
     "symbol": "Sc",
     "name": "스칸듐(Sc)",
     "character_title": "스칸듐 창공 랜서",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 1300,
     "image": "assets/elements/lv_021.png",
     "visual_prompt": "Aerospace alloy silver wind lancer",
-    "desc": "[원자번호 21번 · Sc] '스칸듐 창공 랜서' — 원자번호 21번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 21번 · Sc] '스칸듐 창공 랜서' — 스칸디나비아반도에서 이름을 딴 은백색 경량 전이금속으로, 알루미늄과 결합해 항공우주 전투기와 고급 스포츠 장비의 강도를 비약적으로 높입니다."
   },
   {
     "level": 22,
     "symbol": "Ti",
     "name": "티타늄(Ti)",
     "character_title": "티타늄 불패 중갑병",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 1700,
     "image": "assets/elements/lv_022.png",
     "visual_prompt": "Unbreakable titanium mecha-knight",
@@ -246,40 +246,40 @@
     "symbol": "V",
     "name": "바나듐(V)",
     "character_title": "바나듐 강철 대장장이",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 2200,
     "image": "assets/elements/lv_023.png",
     "visual_prompt": "Multicolored vanadium forge smith dwarf",
-    "desc": "[원자번호 23번 · V] '바나듐 강철 대장장이' — 원자번호 23번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 23번 · V] '바나듐 강철 대장장이' — 북유럽 미의 여신 '바나디스'에서 유래한 전이금속으로, 강철에 소량만 더해도 충격과 피로에 굴하지 않는 초강력 합금강을 완성합니다."
   },
   {
     "level": 24,
     "symbol": "Cr",
     "name": "크로뮴(Cr)",
     "character_title": "크로뮴 거울 성기사",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 2900,
     "image": "assets/elements/lv_024.png",
     "visual_prompt": "Mirror-polished chrome reflection paladin",
-    "desc": "[원자번호 24번 · Cr] '크로뮴 거울 성기사' — 원자번호 24번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 24번 · Cr] '크로뮴 거울 성기사' — 그리스어 '색(Chroma)'에서 유래한 은백색 전이금속으로, 스테인리스강의 부식을 막고 루비에는 붉은빛, 에메랄드에는 녹색빛을 부여합니다."
   },
   {
     "level": 25,
     "symbol": "Mn",
     "name": "망가니즈(Mn)",
     "character_title": "망가니즈 충격파 전사",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 3700,
     "image": "assets/elements/lv_025.png",
     "visual_prompt": "Heavy amethyst-steel warhammer warrior",
-    "desc": "[원자번호 25번 · Mn] '망가니즈 충격파 전사' — 원자번호 25번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 25번 · Mn] '망가니즈 충격파 전사' — 철강 제련에서 산소와 황을 제거하는 필수 전이금속이자, 식물의 광합성 산소 발생 복합체(OEC) 중심에서 생명을 지탱하는 원소입니다."
   },
   {
     "level": 26,
     "symbol": "Fe",
     "name": "철(Fe)",
     "character_title": "강철의 아이언 팔라딘",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 4700,
     "image": "assets/elements/lv_026.png",
     "visual_prompt": "Classic heroic iron-clad sword paladin",
@@ -290,29 +290,29 @@
     "symbol": "Co",
     "name": "코발트(Co)",
     "character_title": "코발트 푸른마력 나이트",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 6100,
     "image": "assets/elements/lv_027.png",
     "visual_prompt": "Deep cobalt-blue magnetic rune knight",
-    "desc": "[원자번호 27번 · Co] '코발트 푸른마력 나이트' — 원자번호 27번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 27번 · Co] '코발트 푸른마력 나이트' — 깊고 푸른 '코발트블루' 안료의 원천이자 강자성 전이금속으로, 리튬이온 배터리 양극재와 초내열 합금의 핵심을 담당합니다."
   },
   {
     "level": 28,
     "symbol": "Ni",
     "name": "니켈(Ni)",
     "character_title": "니켈 은화 용병",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 7800,
     "image": "assets/elements/lv_028.png",
     "visual_prompt": "Shiny nickel coin-shielded mercenary",
-    "desc": "[원자번호 28번 · Ni] '니켈 은화 용병' — 원자번호 28번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 28번 · Ni] '니켈 은화 용병' — 내식성이 뛰어난 은백색 강자성 금속으로, 지구 내핵을 철과 함께 구성하며 스테인리스강·특수 합금·충전지의 핵심 소재로 쓰입니다."
   },
   {
     "level": 29,
     "symbol": "Cu",
     "name": "구리(Cu)",
     "character_title": "구리 전류 마도사",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 10000,
     "image": "assets/elements/lv_029.png",
     "visual_prompt": "Copper coil lightning conductor mage",
@@ -323,194 +323,194 @@
     "symbol": "Zn",
     "name": "아연(Zn)",
     "character_title": "아연 방패 파수꾼",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 12000,
     "image": "assets/elements/lv_030.png",
     "visual_prompt": "Galvanized zinc brass-shield sentinel",
-    "desc": "[원자번호 30번 · Zn] '아연 방패 파수꾼' — 원자번호 30번 전이/주족 원소로, 고유한 전자 배치와 결정 에너지를 발산하며 문명과 자연의 토대를 이룹니다."
+    "desc": "[원자번호 30번 · Zn] '아연 방패 파수꾼' — 철의 부식을 막는 아연도금(Galvanizing)과 구리와의 합금인 황동(Brass)을 만드는 전이금속이자, 인체 면역과 효소 반응의 필수 미네랄입니다."
   },
   {
     "level": 31,
     "symbol": "Ga",
     "name": "갈륨(Ga)",
     "character_title": "갈륨 액체금속 슬라임술사",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 16000,
     "image": "assets/elements/lv_031.png",
     "visual_prompt": "Melting liquid-metal silver shifter mage",
-    "desc": "[원자번호 31번 · Ga] '갈륨 액체금속 슬라임술사' — 원자번호 31번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 31번 · Ga] '갈륨 액체금속 슬라임술사' — 체온(29.76°C)만으로도 손바닥 위에서 녹아내리는 신비한 후전이금속으로, 질화갈륨(GaN)·비소화갈륨(GaAs) 반도체의 핵심 원소입니다."
   },
   {
     "level": 32,
     "symbol": "Ge",
     "name": "저마늄(Ge)",
     "character_title": "저마늄 광학 엔지니어",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 21000,
     "image": "assets/elements/lv_032.png",
     "visual_prompt": "Infrared crystal lens techno-gnome",
-    "desc": "[원자번호 32번 · Ge] '저마늄 광학 엔지니어' — 원자번호 32번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 32번 · Ge] '저마늄 광학 엔지니어' — 멘델레예프가 '에카-규소'로 예언했던 준금속으로, 적외선을 투과하는 야간 투시 광학 렌즈와 초고속 광섬유 통신망의 핵심 소재입니다."
   },
   {
     "level": 33,
     "symbol": "As",
     "name": "비소(As)",
     "character_title": "비소 그림자 독살자",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 26000,
     "image": "assets/elements/lv_033.png",
     "visual_prompt": "Arsenic dark-green poison dagger rogue",
-    "desc": "[원자번호 33번 · As] '비소 그림자 독살자' — 원자번호 33번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 33번 · As] '비소 그림자 독살자' — 역사 속 치명적인 독약이자 금속과 비금속의 성질을 아우르는 준금속으로, 현대에는 초고속 화합물 반도체의 필수 원소로 활약합니다."
   },
   {
     "level": 34,
     "symbol": "Se",
     "name": "셀레늄(Se)",
     "character_title": "셀레늄 달빛 사제",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 34000,
     "image": "assets/elements/lv_034.png",
     "visual_prompt": "Lunar photoelectric silver-red mystic",
-    "desc": "[원자번호 34번 · Se] '셀레늄 달빛 사제' — 원자번호 34번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 34번 · Se] '셀레늄 달빛 사제' — 달의 여신 '셀레네'에서 이름을 딴 비금속 원소로, 빛을 받으면 전기 전도도가 높아지는 광전 효과와 강력한 항산화 효소 기능을 지녔습니다."
   },
   {
     "level": 35,
     "symbol": "Br",
     "name": "브로민(Br)",
     "character_title": "브로민 적갈색 연무술사",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 44000,
     "image": "assets/elements/lv_035.png",
     "visual_prompt": "Red-brown fuming liquid flask sorcerer",
-    "desc": "[원자번호 35번 · Br] '브로민 적갈색 연무술사' — 원자번호 35번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 35번 · Br] '브로민 적갈색 연무술사' — 상온에서 액체 상태로 존재하는 유일한 비금속(할로겐) 원소로, 붉은 갈색의 자극성 증기를 피워 올리며 난연제와 의약품 합성에 쓰입니다."
   },
   {
     "level": 36,
     "symbol": "Kr",
     "name": "크립톤(Kr)",
     "character_title": "크립톤 초록광선 수호자",
-    "series": "4주기 전이금속 등 (19~36)",
+    "series": "4주기 원소 (19~36 · K~Kr)",
     "points": 56000,
     "image": "assets/elements/lv_036.png",
     "visual_prompt": "Glowing green krypton laser guardian",
-    "desc": "[원자번호 36번 · Kr] '크립톤 초록광선 수호자' — 원자번호 36번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 36번 · Kr] '크립톤 초록광선 수호자' — '숨겨진 것'이라는 뜻의 4주기 비활성 기체로, 방전 시 선명한 초록·백색 빛을 발하며 고성능 섬광등과 단열 복층유리에 충전됩니다."
   },
   {
     "level": 37,
     "symbol": "Rb",
     "name": "루비듐(Rb)",
     "character_title": "루비듐 적홍색 폭마",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 72000,
     "image": "assets/elements/lv_037.png",
     "visual_prompt": "Ruby-red explosive flame warlock",
-    "desc": "[원자번호 37번 · Rb] '루비듐 적홍색 폭마' — 원자번호 37번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 37번 · Rb] '루비듐 적홍색 폭마' — 자홍색 불꽃 스펙트럼에서 이름을 딴 고반응성 알칼리 금속으로, 물과 닿자마자 격렬히 반응하며 정밀 루비듐 원자시계에 활용됩니다."
   },
   {
     "level": 38,
     "symbol": "Sr",
     "name": "스트론튬(Sr)",
     "character_title": "스트론튬 진홍 불꽃술사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 92000,
     "image": "assets/elements/lv_038.png",
     "visual_prompt": "Crimson firework flare pyromancer",
-    "desc": "[원자번호 38번 · Sr] '스트론튬 진홍 불꽃술사' — 원자번호 38번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 38번 · Sr] '스트론튬 진홍 불꽃술사' — 스코틀랜드 스트론티안 광산에서 발견된 알칼리토금속으로, 불꽃놀이에서 밤하늘을 가장 선명한 진홍빛으로 물들이는 원소입니다."
   },
   {
     "level": 39,
     "symbol": "Y",
     "name": "이트륨(Y)",
     "character_title": "이트륨 적색광선 마검사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 110000,
     "image": "assets/elements/lv_039.png",
     "visual_prompt": "Yttrium laser crystal spellsword",
-    "desc": "[원자번호 39번 · Y] '이트륨 적색광선 마검사' — 원자번호 39번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 39번 · Y] '이트륨 적색광선 마검사' — 스웨덴 이테르비 마을에서 최초로 발견된 희토류 전이금속으로, 고출력 YAG 레이저 결정과 고온 초전도체, LED 형광체의 핵심입니다."
   },
   {
     "level": 40,
     "symbol": "Zr",
     "name": "지르코늄(Zr)",
     "character_title": "지르코늄 다이아몬드 창병",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 150000,
     "image": "assets/elements/lv_040.png",
     "visual_prompt": "Cubic zirconia prism armor spearman",
-    "desc": "[원자번호 40번 · Zr] '지르코늄 다이아몬드 창병' — 원자번호 40번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 40번 · Zr] '지르코늄 다이아몬드 창병' — 큐빅 지르코니아 보석의 찬란한 광채를 만들고, 열중성자를 거의 흡수하지 않아 원자력 발전소 핵연료 피복관으로 쓰이는 내식성 금속입니다."
   },
   {
     "level": 41,
     "symbol": "Nb",
     "name": "나이오븀(Nb)",
     "character_title": "나이오븀 초전도 발키리",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 190000,
     "image": "assets/elements/lv_041.png",
     "visual_prompt": "Iridescent anodized niobium valkyrie",
-    "desc": "[원자번호 41번 · Nb] '나이오븀 초전도 발키리' — 원자번호 41번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 41번 · Nb] '나이오븀 초전도 발키리' — 그리스 신화 탄탈로스의 딸 '니오베'에서 유래한 전이금속으로, 극저온에서 강력한 초전도성을 발휘하여 MRI와 입자가속기 자석을 만듭니다."
   },
   {
     "level": 42,
     "symbol": "Mo",
     "name": "몰리브데넘(Mo)",
     "character_title": "몰리브데넘 고열 중기병",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 240000,
     "image": "assets/elements/lv_042.png",
     "visual_prompt": "Heat-proof heavy steel halberdier",
-    "desc": "[원자번호 42번 · Mo] '몰리브데넘 고열 중기병' — 원자번호 42번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 42번 · Mo] '몰리브데넘 고열 중기병' — 녹는점이 2,623°C에 달하는 초내열 전이금속이자, 식물이 대기 중의 질소를 고정할 때 효소 중심에서 활약하는 필수 미량 원소입니다."
   },
   {
     "level": 43,
     "symbol": "Tc",
     "name": "테크네튬(Tc)",
     "character_title": "테크네튬 인공 방사 호문쿨루스",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 310000,
     "image": "assets/elements/lv_043.png",
     "visual_prompt": "Synthetic glowing green-core homunculus",
-    "desc": "[원자번호 43번 · Tc] '테크네튬 인공 방사 호문쿨루스' — 원자번호 43번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 43번 · Tc] '테크네튬 인공 방사 호문쿨루스' — 주기율표에서 가장 가벼운 방사성 원소이자 인류가 최초로 인공 합성한 원소로, 핵의학 영상 진단(Tc-99m)에서 생명을 구하는 빛을 냅니다."
   },
   {
     "level": 44,
     "symbol": "Ru",
     "name": "루테늄(Ru)",
     "character_title": "루테늄 흑백금 암흑기사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 400000,
     "image": "assets/elements/lv_044.png",
     "visual_prompt": "Dark platinum-group shadow blade knight",
-    "desc": "[원자번호 44번 · Ru] '루테늄 흑백금 암흑기사' — 원자번호 44번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 44번 · Ru] '루테늄 흑백금 암흑기사' — 백금족 원소 중 하나로, 백금과 팔라듐에 소량만 합금해도 내마모성을 비약적으로 높여주며 차세대 태양전지와 촉매의 핵심으로 쓰입니다."
   },
   {
     "level": 45,
     "symbol": "Rh",
     "name": "로듐(Rh)",
     "character_title": "로듐 백광 프리즘 성녀",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 520000,
     "image": "assets/elements/lv_045.png",
     "visual_prompt": "Brilliant reflective rhodium saintess",
-    "desc": "[원자번호 45번 · Rh] '로듐 백광 프리즘 성녀' — 원자번호 45번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 45번 · Rh] '로듐 백광 프리즘 성녀' — 가시광선 반사율이 매우 높고 부식되지 않는 백금족 최고가 귀금속으로, 자동차 배기가스의 유독 물질을 정화하는 3원 촉매의 핵심입니다."
   },
   {
     "level": 46,
     "symbol": "Pd",
     "name": "팔라듐(Pd)",
     "character_title": "팔라듐 정화 성전사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 660000,
     "image": "assets/elements/lv_046.png",
     "visual_prompt": "Hydrogen-absorbing silver purifier templar",
-    "desc": "[원자번호 46번 · Pd] '팔라듐 정화 성전사' — 원자번호 46번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 46번 · Pd] '팔라듐 정화 성전사' — 자기 부피의 900배에 달하는 수소를 스펀지처럼 흡수하는 백금족 귀금속으로, 수소 정제·연료전지와 노벨 화학상 교차짝지음 촉매의 주역입니다."
   },
   {
     "level": 47,
     "symbol": "Ag",
     "name": "은(Ag)",
     "character_title": "실버 문라이트 나이트",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 850000,
     "image": "assets/elements/lv_047.png",
     "visual_prompt": "Moonlight gleaming silver rapier cavalier",
@@ -521,293 +521,293 @@
     "symbol": "Cd",
     "name": "카드뮴(Cd)",
     "character_title": "카드뮴 황색 제어봉 파수꾼",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 1000000,
     "image": "assets/elements/lv_048.png",
     "visual_prompt": "Yellow cadmium nuclear-shield warden",
-    "desc": "[원자번호 48번 · Cd] '카드뮴 황색 제어봉 파수꾼' — 원자번호 48번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 48번 · Cd] '카드뮴 황색 제어봉 파수꾼' — 선명한 노란색 안료(카드뮴 옐로)와 니켈-카드뮴 충전지로 유명하며, 중성자를 강하게 흡수하여 원자로 제어봉 소재로 사용되는 금속입니다."
   },
   {
     "level": 49,
     "symbol": "In",
     "name": "인듐(In)",
     "character_title": "인듐 터치스크린 마법사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 1300000,
     "image": "assets/elements/lv_049.png",
     "visual_prompt": "Indigo-glowing mirror-glass illusionist",
-    "desc": "[원자번호 49번 · In] '인듐 터치스크린 마법사' — 원자번호 49번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 49번 · In] '인듐 터치스크린 마법사' — 구부릴 때 '주석 울음' 소리를 내는 매우 무른 은백색 금속으로, 산화인듐주석(ITO) 투명 전극이 되어 전 세계 모든 스마트폰 터치스크린을 움직입니다."
   },
   {
     "level": 50,
     "symbol": "Sn",
     "name": "주석(Sn)",
     "character_title": "주석 장난감 병정 대장",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 1700000,
     "image": "assets/elements/lv_050.png",
     "visual_prompt": "Classic tin soldier captain with bayonet",
-    "desc": "[원자번호 50번 · Sn] '주석 장난감 병정 대장' — 원자번호 50번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 50번 · Sn] '주석 장난감 병정 대장' — 구리와 합금하여 인류의 청동기 시대를 열었던 역사적 후전이금속으로, 녹는점이 낮고 무독성이라 납땜과 식품 통조림 코팅에 널리 쓰입니다."
   },
   {
     "level": 51,
     "symbol": "Sb",
     "name": "안티모니(Sb)",
     "character_title": "안티모니 흑안 화장 마녀",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 2200000,
     "image": "assets/elements/lv_051.png",
     "visual_prompt": "Ancient kohl-eyed star-metal sorceress",
-    "desc": "[원자번호 51번 · Sb] '안티모니 흑안 화장 마녀' — 원자번호 51번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 51번 · Sb] '안티모니 흑안 화장 마녀' — 고대 이집트에서 눈 화장품(콜)으로 쓰였던 준금속으로, 납 축전지의 강도를 높이고 화염 확산을 막는 방염제의 핵심 성분입니다."
   },
   {
     "level": 52,
     "symbol": "Te",
     "name": "텔루륨(Te)",
     "character_title": "텔루륨 태양열 연금술사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 2900000,
     "image": "assets/elements/lv_052.png",
     "visual_prompt": "Golden-silver solar crystal sage",
-    "desc": "[원자번호 52번 · Te] '텔루륨 태양열 연금술사' — 원자번호 52번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 52번 · Te] '텔루륨 태양열 연금술사' — 지구 지각에서 백금만큼이나 희귀한 은백색 준금속으로, 열을 전기로 바꾸는 열전 반도체와 고효율 카드뮴-텔루륨 태양전지의 핵심입니다."
   },
   {
     "level": 53,
     "symbol": "I",
     "name": "아이오딘(I)",
     "character_title": "아이오딘 보라안개 치유사",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 3700000,
     "image": "assets/elements/lv_053.png",
     "visual_prompt": "Violet sublimation vapor apothecary",
-    "desc": "[원자번호 53번 · I] '아이오딘 보라안개 치유사' — 원자번호 53번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 53번 · I] '아이오딘 보라안개 치유사' — 가열하면 액체를 거치지 않고 보랏빛 기체로 승화하는 할로겐 원소로, 갑상선 호르몬의 필수 성분이자 상처를 소독하는 붉은 소독약의 주인공입니다."
   },
   {
     "level": 54,
     "symbol": "Xe",
     "name": "제논(Xe)",
     "character_title": "제논 창백섬광 아크메이지",
-    "series": "5주기 원소 (37~54)",
+    "series": "5주기 원소 (37~54 · Rb~Xe)",
     "points": 4800000,
     "image": "assets/elements/lv_054.png",
     "visual_prompt": "Electric blue xenon headlamp archmage",
-    "desc": "[원자번호 54번 · Xe] '제논 창백섬광 아크메이지' — 원자번호 54번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 54번 · Xe] '제논 창백섬광 아크메이지' — '낯선 자'라는 뜻의 무거운 비활성 기체로, 푸른빛의 고휘도 자동차 헤드라이트와 우주 탐사선의 차세대 이온 추진 엔진 연료로 활약합니다."
   },
   {
     "level": 55,
     "symbol": "Cs",
     "name": "세슘(Cs)",
     "character_title": "세슘 원자시계 크로노맨서",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 알칼리·알칼리토금속 (55~56 · Cs~Ba)",
     "points": 6100000,
     "image": "assets/elements/lv_055.png",
     "visual_prompt": "Golden liquid-alkali timekeeper mage",
-    "desc": "[원자번호 55번 · Cs] '세슘 원자시계 크로노맨서' — 원자번호 55번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 55번 · Cs] '세슘 원자시계 크로노맨서' — 반응성이 극도로 높은 황금빛 액체성 알칼리 금속으로, 1초의 정의(91억 9263만 1770번 진동)를 결정하는 세슘 원자시계의 절대 기준입니다."
   },
   {
     "level": 56,
     "symbol": "Ba",
     "name": "바륨(Ba)",
     "character_title": "바륨 연두빛 투시 현자",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 알칼리·알칼리토금속 (55~56 · Cs~Ba)",
     "points": 7800000,
     "image": "assets/elements/lv_056.png",
     "visual_prompt": "Apple-green X-ray glow mystic monk",
-    "desc": "[원자번호 56번 · Ba] '바륨 연두빛 투시 현자' — 원자번호 56번 중원소로, 정밀 광학·초전도·특수 합금 분야에서 핵심적인 역할을 수행하는 신비로운 원소입니다."
+    "desc": "[원자번호 56번 · Ba] '바륨 연두빛 투시 현자' — '무겁다'는 뜻의 알칼리토금속으로, 불꽃놀이의 연두색 불꽃을 만들며 X선을 강하게 흡수해 소화기관 조영제로 의료 현장에서 활약합니다."
   },
   {
     "level": 57,
     "symbol": "La",
     "name": "란타넘(La)",
     "character_title": "란타넘 희토류 선구자",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 10000000,
     "image": "assets/elements/lv_057.png",
     "visual_prompt": "Lanthanide vanguard crystal summoner",
-    "desc": "[원자번호 57번 · La] '란타넘 희토류 선구자' — 원자번호 57번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 57번 · La] '란타넘 희토류 선구자' — 란타넘족 15개 희토류 원소의 문을 여는 선구자 금속으로, 하이브리드 자동차 배터리와 고급 카메라의 굴절률 높은 광학 유리를 만듭니다."
   },
   {
     "level": 58,
     "symbol": "Ce",
     "name": "세륨(Ce)",
     "character_title": "세륨 부싯돌 화염검사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 12000000,
     "image": "assets/elements/lv_058.png",
     "visual_prompt": "Spark-striking ferrocerium flame duelist",
-    "desc": "[원자번호 58번 · Ce] '세륨 부싯돌 화염검사' — 원자번호 58번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 58번 · Ce] '세륨 부싯돌 화염검사' — 희토류 중 지각에 가장 풍부한 원소로, 마찰만으로도 강렬한 불꽃을 튀기는 부싯돌 합금(페로세륨)과 스스로 세척되는 촉매에 쓰입니다."
   },
   {
     "level": 59,
     "symbol": "Pr",
     "name": "프라세오디뮴(Pr)",
     "character_title": "프라세오디뮴 쌍둥이 녹주술사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 16000000,
     "image": "assets/elements/lv_059.png",
     "visual_prompt": "Twin-blade green glass goggle artificer",
-    "desc": "[원자번호 59번 · Pr] '프라세오디뮴 쌍둥이 녹주술사' — 원자번호 59번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 59번 · Pr] '프라세오디뮴 쌍둥이 녹주술사' — '쌍둥이'라는 뜻의 희토류 원소로, 유리 세공인의 눈을 보호하는 녹색 고글 렌즈와 항공기 엔진의 고강도 마그네슘 합금을 만듭니다."
   },
   {
     "level": 60,
     "symbol": "Nd",
     "name": "네오디뮴(Nd)",
     "character_title": "네오디뮴 초자석 마왕",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 21000000,
     "image": "assets/elements/lv_060.png",
     "visual_prompt": "Violet-tinted super-magnet gravity lord",
-    "desc": "[원자번호 60번 · Nd] '네오디뮴 초자석 마왕' — 원자번호 60번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 60번 · Nd] '네오디뮴 초자석 마왕' — 현존하는 가장 강력한 영구자석(네오디뮴 자석)을 만드는 희토류의 제왕으로, 전기차 모터·풍력 발전기·고음질 이어폰의 심장부를 움직입니다."
   },
   {
     "level": 61,
     "symbol": "Pm",
     "name": "프로메튬(Pm)",
     "character_title": "프로메튬 성화 타이탄",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 27000000,
     "image": "assets/elements/lv_061.png",
     "visual_prompt": "Luminous blue-green sacred fire titan",
-    "desc": "[원자번호 61번 · Pm] '프로메튬 성화 타이탄' — 원자번호 61번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 61번 · Pm] '프로메튬 성화 타이탄' — 인류에게 불을 훔쳐다 준 티탄 '프로메테우스'의 이름을 딴 방사성 희토류 원소로, 자연계에 거의 존재하지 않으며 스스로 청록색 빛을 냅니다."
   },
   {
     "level": 62,
     "symbol": "Sm",
     "name": "사마륨(Sm)",
     "character_title": "사마륨 자력 코어 권사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 34000000,
     "image": "assets/elements/lv_062.png",
     "visual_prompt": "Samarium-cobalt magnetic fist monk",
-    "desc": "[원자번호 62번 · Sm] '사마륨 자력 코어 권사' — 원자번호 62번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 62번 · Sm] '사마륨 자력 코어 권사' — 고온에서도 자성을 잃지 않는 사마륨-코발트 영구자석의 핵심 희토류로, 정밀 유도무기 모터와 암세포의 고통을 줄이는 방사성 의약품에 쓰입니다."
   },
   {
     "level": 63,
     "symbol": "Eu",
     "name": "유로퓸(Eu)",
     "character_title": "유로퓸 적청 형광 요정왕",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 44000000,
     "image": "assets/elements/lv_063.png",
     "visual_prompt": "Phosphorescent red-blue glow fairy king",
-    "desc": "[원자번호 63번 · Eu] '유로퓸 적청 형광 요정왕' — 원자번호 63번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 63번 · Eu] '유로퓸 적청 형광 요정왕' — 유럽 대륙에서 이름을 딴 희토류 원소로, 자외선을 받으면 선명한 붉은색과 파란색 형광을 발하여 유로화 지폐의 위조 방지 잉크로 사용됩니다."
   },
   {
     "level": 64,
     "symbol": "Gd",
     "name": "가돌리늄(Gd)",
     "character_title": "가돌리늄 자기장 스캔 도사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 56000000,
     "image": "assets/elements/lv_064.png",
     "visual_prompt": "MRI magnetic shield barrier sage",
-    "desc": "[원자번호 64번 · Gd] '가돌리늄 자기장 스캔 도사' — 원자번호 64번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 64번 · Gd] '가돌리늄 자기장 스캔 도사' — 희토류 광물 가돌리나이트에서 유래한 강자성 원소로, 중성자 흡수 단면적이 매우 크고 병원 MRI 검사의 정밀 조영제로 널리 쓰입니다."
   },
   {
     "level": 65,
     "symbol": "Tb",
     "name": "터븀(Tb)",
     "character_title": "터븀 에메랄드 음향술사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 72000000,
     "image": "assets/elements/lv_065.png",
     "visual_prompt": "Bright green荧光 sonar resonance bard",
-    "desc": "[원자번호 65번 · Tb] '터븀 에메랄드 음향술사' — 원자번호 65번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 65번 · Tb] '터븀 에메랄드 음향술사' — 스웨덴 이테르비 마을에서 이름을 딴 또 하나의 희토류로, 고체 소나(음향 탐지기)용 자기변형 합금과 선명한 녹색 형광체의 핵심입니다."
   },
   {
     "level": 66,
     "symbol": "Dy",
     "name": "디스프로슘(Dy)",
     "character_title": "디스프로슘 난공불락 거신",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 93000000,
     "image": "assets/elements/lv_066.png",
     "visual_prompt": "High-flux magnetic fortress colossus",
-    "desc": "[원자번호 66번 · Dy] '디스프로슘 난공불락 거신' — 원자번호 66번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 66번 · Dy] '디스프로슘 난공불락 거신' — '접근하기 어렵다'는 뜻의 희토류 원소로, 전기차용 네오디뮴 자석이 고열에서도 자력을 잃지 않도록 지켜주는 필수 첨가 원소입니다."
   },
   {
     "level": 67,
     "symbol": "Ho",
     "name": "홀뮴(Ho)",
     "character_title": "홀뮴 극자력 마도기병",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 110000000,
     "image": "assets/elements/lv_067.png",
     "visual_prompt": "Strongest magnetic field Flux dragoon",
-    "desc": "[원자번호 67번 · Ho] '홀뮴 극자력 마도기병' — 원자번호 67번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 67번 · Ho] '홀뮴 극자력 마도기병' — 모든 자연 원소 중 가장 강력한 자기 모멘트(자력)를 지닌 희토류 원소로, 초강력 자기장 집중 장치와 의료용 레이저 수술기에 쓰입니다."
   },
   {
     "level": 68,
     "symbol": "Er",
     "name": "어븀(Er)",
     "character_title": "어븀 핑크빛 광섬유 요정",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 150000000,
     "image": "assets/elements/lv_068.png",
     "visual_prompt": "Rose-pink optical fiber laser sylph",
-    "desc": "[원자번호 68번 · Er] '어븀 핑크빛 광섬유 요정' — 원자번호 68번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 68번 · Er] '어븀 핑크빛 광섬유 요정' — 아름다운 장미빛 분홍색 이온을 띠는 희토류 원소로, 대륙 간 해저 광케이블에서 빛 신호를 증폭시키는 어븀 첨가 광섬유 증폭기(EDFA)의 핵심입니다."
   },
   {
     "level": 69,
     "symbol": "Tm",
     "name": "툴륨(Tm)",
     "character_title": "툴륨 휴대용 광선 헌터",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 190000000,
     "image": "assets/elements/lv_069.png",
     "visual_prompt": "Rare green X-ray beam sniper hunter",
-    "desc": "[원자번호 69번 · Tm] '툴륨 휴대용 광선 헌터' — 원자번호 69번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 69번 · Tm] '툴륨 휴대용 광선 헌터' — 자연계 희토류 중 가장 희귀한 원소 중 하나로, 녹색 레이저와 전원 없이도 작동하는 휴대용 X선 촬영 장치의 방사선원으로 활용됩니다."
   },
   {
     "level": 70,
     "symbol": "Yb",
     "name": "이터븀(Yb)",
     "character_title": "이터븀 양자시계 마법학자",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 240000000,
     "image": "assets/elements/lv_070.png",
     "visual_prompt": "Quantum lattice green-glow scholar",
-    "desc": "[원자번호 70번 · Yb] '이터븀 양자시계 마법학자' — 원자번호 70번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 70번 · Yb] '이터븀 양자시계 마법학자' — 스테인리스강의 강도를 높이고, 세슘 원자시계보다도 정밀한 차세대 '광격자 양자시계'의 기준 원자로 주목받는 희토류 원소입니다."
   },
   {
     "level": 71,
     "symbol": "Lu",
     "name": "루테튬(Lu)",
     "character_title": "루테튬 최후의 희토류 성주",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 란타넘족 희토류 (57~71 · La~Lu)",
     "points": 310000000,
     "image": "assets/elements/lv_071.png",
     "visual_prompt": "Dense silver-gold lanthanide lord",
-    "desc": "[원자번호 71번 · Lu] '루테튬 최후의 희토류 성주' — 원자번호 71번 란타넘족 희토류 원소로, 강력한 자성과 레이저·발광 특성을 지닌 현대 첨단 기술의 숨은 보석입니다."
+    "desc": "[원자번호 71번 · Lu] '루테튬 최후의 희토류 성주' — 란타넘족 희토류의 대미를 장식하는 가장 무겁고 단단한 원소로, 운석의 연대 측정과 암을 찾아내는 양전자 단층촬영(PET) 검출기에 쓰입니다."
   },
   {
     "level": 72,
     "symbol": "Hf",
     "name": "하프늄(Hf)",
     "character_title": "하프늄 원자로 방벽 수호신",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 400000000,
     "image": "assets/elements/lv_072.png",
     "visual_prompt": "Neutron-absorbing plasma-proof sentinel",
-    "desc": "[원자번호 72번 · Hf] '하프늄 원자로 방벽 수호신' — 원자번호 72번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 72번 · Hf] '하프늄 원자로 방벽 수호신' — 코펜하겐의 라틴어 이름에서 유래한 6주기 전이금속으로, 열중성자를 강하게 흡수하여 원자력 잠수함 원자로 제어봉과 최신 반도체 절연막에 쓰입니다."
   },
   {
     "level": 73,
     "symbol": "Ta",
     "name": "탄탈럼(Ta)",
     "character_title": "탄탈럼 불사조 축전 기사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 520000000,
     "image": "assets/elements/lv_073.png",
     "visual_prompt": "Blue-gray acid-immune capacitor knight",
-    "desc": "[원자번호 73번 · Ta] '탄탈럼 불사조 축전 기사' — 원자번호 73번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 73번 · Ta] '탄탈럼 불사조 축전 기사' — 왕수(강산)에조차 녹지 않는 불굴의 내식성을 지닌 전이금속으로, 스마트폰 속 초소형 고성능 탄탈럼 축전기(커패시터)와 인공관절 소재로 쓰입니다."
   },
   {
     "level": 74,
     "symbol": "W",
     "name": "텅스텐(W)",
     "character_title": "텅스텐 초고열 볼프람 제왕",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 670000000,
     "image": "assets/elements/lv_074.png",
     "visual_prompt": "Glowing filament heavy tungsten warlord",
@@ -818,40 +818,40 @@
     "symbol": "Re",
     "name": "레늄(Re)",
     "character_title": "레늄 제트엔진 창공장군",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 850000000,
     "image": "assets/elements/lv_075.png",
     "visual_prompt": "Superalloy jet-thruster sky general",
-    "desc": "[원자번호 75번 · Re] '레늄 제트엔진 창공장군' — 원자번호 75번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 75번 · Re] '레늄 제트엔진 창공장군' — 독일 라인강에서 이름을 딴 희귀 전이금속으로, 텅스텐·오스뮴에 이어 세 번째로 녹는점이 높아 전투기 제트엔진 터빈 블레이드 초합금에 쓰입니다."
   },
   {
     "level": 76,
     "symbol": "Os",
     "name": "오스뮴(Os)",
     "character_title": "오스뮴 초고밀도 중력군주",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 1000000000,
     "image": "assets/elements/lv_076.png",
     "visual_prompt": "Bluish-silver ultra-dense gravity monarch",
-    "desc": "[원자번호 76번 · Os] '오스뮴 초고밀도 중력군주' — 원자번호 76번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 76번 · Os] '오스뮴 초고밀도 중력군주' — 지구상의 모든 자연 원소 중 밀도(22.59g/cm³)가 가장 높은 초고밀도 백금족 금속으로, 만년필 촉 끝과 초고압 합금에 사용됩니다."
   },
   {
     "level": 77,
     "symbol": "Ir",
     "name": "이리듐(Ir)",
     "character_title": "이리듐 운석충돌 성좌기사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 1400000000,
     "image": "assets/elements/lv_077.png",
     "visual_prompt": "Rainbow meteor-metal cosmic templar",
-    "desc": "[원자번호 77번 · Ir] '이리듐 운석충돌 성좌기사' — 원자번호 77번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 77번 · Ir] '이리듐 운석충돌 성좌기사' — 무지개 여신 '이리스'에서 유래한 백금족 금속으로, 부식에 가장 강하며 6,600만 년 전 공룡 대멸종 소행성 충돌 지층(K-Pg 경계)의 증거로 유명합니다."
   },
   {
     "level": 78,
     "symbol": "Pt",
     "name": "백금(Pt)",
     "character_title": "플래티넘 황제 기사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 1700000000,
     "image": "assets/elements/lv_078.png",
     "visual_prompt": "Regal white-gold platinum emperor knight",
@@ -862,7 +862,7 @@
     "symbol": "Au",
     "name": "금(Au)",
     "character_title": "황금 태양왕 골드",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 2300000000,
     "image": "assets/elements/lv_079.png",
     "visual_prompt": "Radiant golden sun-king with royal crown",
@@ -873,7 +873,7 @@
     "symbol": "Hg",
     "name": "수은(Hg)",
     "character_title": "수은 퀵실버 환영자객",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 2900000000,
     "image": "assets/elements/lv_080.png",
     "visual_prompt": "Liquid silver mercury shapeshifting assassin",
@@ -884,18 +884,18 @@
     "symbol": "Tl",
     "name": "탈륨(Tl)",
     "character_title": "탈륨 녹광 암살귀",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 3700000000,
     "image": "assets/elements/lv_081.png",
     "visual_prompt": "Emerald-line spectral poison wraith",
-    "desc": "[원자번호 81번 · Tl] '탈륨 녹광 암살귀' — 원자번호 81번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 81번 · Tl] '탈륨 녹광 암살귀' — 스펙트럼의 푸른 녹색 선('초록 나뭇가지')에서 이름을 딴 무른 중금속으로, 고온 초전도체와 적외선 광학 검출기 소재로 연구됩니다."
   },
   {
     "level": 82,
     "symbol": "Pb",
     "name": "납(Pb)",
     "character_title": "납 방사선 방패 거병",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 4800000000,
     "image": "assets/elements/lv_082.png",
     "visual_prompt": "Heavy dark-gray lead fortress juggernaut",
@@ -906,106 +906,106 @@
     "symbol": "Bi",
     "name": "비스무트(Bi)",
     "character_title": "비스무트 무지개 계단 마법사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 6100000000,
     "image": "assets/elements/lv_083.png",
     "visual_prompt": "Iridescent geometric hopper-crystal mage",
-    "desc": "[원자번호 83번 · Bi] '비스무트 무지개 계단 마법사' — 원자번호 83번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 83번 · Bi] '비스무트 무지개 계단 마법사' — 산화막의 두께에 따라 무지갯빛 계단 모양(호퍼 결정)으로 자라나는 아름다운 후전이금속으로, 사실상 안정된 동위원소처럼 쓰이며 소화제 원료로도 친숙합니다."
   },
   {
     "level": 84,
     "symbol": "Po",
     "name": "폴로늄(Po)",
     "character_title": "폴로늄 청광 방사 사신",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 7900000000,
     "image": "assets/elements/lv_084.png",
     "visual_prompt": "Blue-alpha-glowing radioactive reaper",
-    "desc": "[원자번호 84번 · Po] '폴로늄 청광 방사 사신' — 원자번호 84번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 84번 · Po] '폴로늄 청광 방사 사신' — 마리 퀴리가 조국 폴란드의 이름을 따 명명한 강방사성 원소로, 우라늄 광석에서 극미량 추출되며 우주 탐사선의 정전기 제거기와 열원으로 쓰입니다."
   },
   {
     "level": 85,
     "symbol": "At",
     "name": "아스타틴(At)",
     "character_title": "아스타틴 희귀 암흑환술사",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 10000000000,
     "image": "assets/elements/lv_085.png",
     "visual_prompt": "Ultra-rare ephemeral dark halogen phantom",
-    "desc": "[원자번호 85번 · At] '아스타틴 희귀 암흑환술사' — 원자번호 85번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 85번 · At] '아스타틴 희귀 암흑환술사' — '불안정하다'는 뜻의 그리스어에서 유래한 할로겐 원소로, 지구 지각 전체를 통틀어 단 수 그램만 존재하는 자연계에서 가장 희귀한 원소입니다."
   },
   {
     "level": 86,
     "symbol": "Rn",
     "name": "라돈(Rn)",
     "character_title": "라돈 지하 심연 유령왕",
-    "series": "6주기 및 란타넘족 (55~86)",
+    "series": "6주기 전이·후전이·비활성 원소 (72~86 · Hf~Rn)",
     "points": 12000000000,
     "image": "assets/elements/lv_086.png",
     "visual_prompt": "Glowing red-gold subterranean gas wraith",
-    "desc": "[원자번호 86번 · Rn] '라돈 지하 심연 유령왕' — 원자번호 86번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 86번 · Rn] '라돈 지하 심연 유령왕' — 라듐이 붕괴할 때 생성되는 무색·무취의 무거운 방사성 비활성 기체로, 지하 암반과 온천수에서 자연 방출되는 6주기의 마지막 기체 원소입니다."
   },
   {
     "level": 87,
     "symbol": "Fr",
     "name": "프랑슘(Fr)",
     "character_title": "프랑슘 찰나의 섬광검객",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 알칼리·알칼리토금속 (87~88 · Fr~Ra)",
     "points": 16000000000,
     "image": "assets/elements/lv_087.png",
     "visual_prompt": "Ultra-unstable violent alkali lightning blader",
-    "desc": "[원자번호 87번 · Fr] '프랑슘 찰나의 섬광검객' — 원자번호 87번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 87번 · Fr] '프랑슘 찰나의 섬광검객' — 프랑스에서 이름을 딴 알칼리 금속 중 가장 무거운 방사성 원소로, 반감기가 최대 22분에 불과해 찰나의 순간에만 존재하는 초희귀 금속입니다."
   },
   {
     "level": 88,
     "symbol": "Ra",
     "name": "라듐(Ra)",
     "character_title": "라듐 야광의 마녀여왕",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 알칼리·알칼리토금속 (87~88 · Fr~Ra)",
     "points": 21000000000,
     "image": "assets/elements/lv_088.png",
     "visual_prompt": "Luminous emerald-green radioactive queen",
-    "desc": "[원자번호 88번 · Ra] '라듐 야광의 마녀여왕' — 원자번호 88번 6~7주기 중금속/방사성 원소로, 높은 밀도와 강력한 원자핵 에너지를 품은 심연의 물질입니다."
+    "desc": "[원자번호 88번 · Ra] '라듐 야광의 마녀여왕' — 퀴리 부부가 피치블렌드에서 발견한 '빛을 내는' 알칼리토금속 방사성 원소로, 스스로 푸른 야광을 내며 방사능 연구의 새 시대를 열었습니다."
   },
   {
     "level": 89,
     "symbol": "Ac",
     "name": "악티늄(Ac)",
     "character_title": "악티늄 푸른체렌코프 군주",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 27000000000,
     "image": "assets/elements/lv_089.png",
     "visual_prompt": "Pale-blue Cherenkov-glow actinide lord",
-    "desc": "[원자번호 89번 · Ac] '악티늄 푸른체렌코프 군주' — 원자번호 89번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 89번 · Ac] '악티늄 푸른체렌코프 군주' — 악티늄족 15개 방사성 원소의 이름을 탄생시킨 선구자 금속으로, 어둠 속에서 강렬한 방사선으로 주변 공기를 이온화해 창백한 푸른빛(체렌코프 광)을 냅니다."
   },
   {
     "level": 90,
     "symbol": "Th",
     "name": "토륨(Th)",
     "character_title": "토륨 천둥신 토르 팔라딘",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 34000000000,
     "image": "assets/elements/lv_090.png",
     "visual_prompt": "Thor's radioactive thunder-hammer paladin",
-    "desc": "[원자번호 90번 · Th] '토륨 천둥신 토르 팔라딘' — 원자번호 90번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 90번 · Th] '토륨 천둥신 토르 팔라딘' — 북유럽 천둥의 신 '토르'에서 이름을 딴 자연 악티늄족 방사성 금속으로, 매장량이 풍부하여 차세대 안전 원자로(토륨 용융염 원자로)의 연료로 주목받습니다."
   },
   {
     "level": 91,
     "symbol": "Pa",
     "name": "프로트악티늄(Pa)",
     "character_title": "프로트악티늄 고대 원소신관",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 44000000000,
     "image": "assets/elements/lv_091.png",
     "visual_prompt": "Primordial actinide golden-gray high priest",
-    "desc": "[원자번호 91번 · Pa] '프로트악티늄 고대 원소신관' — 원자번호 91번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 91번 · Pa] '프로트악티늄 고대 원소신관' — '악티늄의 선조'라는 뜻을 지닌 악티늄족 방사성 금속으로, 붕괴하면 악티늄이 되며 해저 퇴적물의 연대를 측정하는 지질학 시계로 활용됩니다."
   },
   {
     "level": 92,
     "symbol": "U",
     "name": "우라늄(U)",
     "character_title": "우라늄 방사 마신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 57000000000,
     "image": "assets/elements/lv_092.png",
     "visual_prompt": "Glowing neon-green nuclear fission demon king",
@@ -1016,18 +1016,18 @@
     "symbol": "Np",
     "name": "넵투늄(Np)",
     "character_title": "넵투늄 심해 해왕성 마신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 72000000000,
     "image": "assets/elements/lv_093.png",
     "visual_prompt": "Deep-blue Neptune trident nuclear archfiend",
-    "desc": "[원자번호 93번 · Np] '넵투늄 심해 해왕성 마신' — 원자번호 93번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 93번 · Np] '넵투늄 심해 해왕성 마신' — 우라늄(Uranus·천왕성) 바로 다음 행성인 해왕성(Neptune)의 이름을 딴 최초의 인공 초우라늄 악티늄족 원소로, 우주 탐사선용 플루토늄-238 생산의 전구체입니다."
   },
   {
     "level": 94,
     "symbol": "Pu",
     "name": "플루토늄(Pu)",
     "character_title": "플루토늄 명왕 핵폭군",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 93000000000,
     "image": "assets/elements/lv_094.png",
     "visual_prompt": "Glowing red-hot plutonium core underworld tyrant",
@@ -1038,260 +1038,260 @@
     "symbol": "Am",
     "name": "아메리슘(Am)",
     "character_title": "아메리슘 감지기 수호천사",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 110000000000,
     "image": "assets/elements/lv_095.png",
     "visual_prompt": "Silver-red ionization beam guardian",
-    "desc": "[원자번호 95번 · Am] '아메리슘 감지기 수호천사' — 원자번호 95번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 95번 · Am] '아메리슘 감지기 수호천사' — 아메리카 대륙에서 이름을 딴 인공 초우라늄 원소로, 극미량의 알파선 이온화 작용을 이용해 가정과 건물의 화재 연기 감지기를 작동시키는 숨은 수호자입니다."
   },
   {
     "level": 96,
     "symbol": "Cm",
     "name": "퀴륨(Cm)",
     "character_title": "퀴륨 자색열광 대현자",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 150000000000,
     "image": "assets/elements/lv_096.png",
     "visual_prompt": "Glowing purple-red thermal isotope archsage",
-    "desc": "[원자번호 96번 · Cm] '퀴륨 자색열광 대현자' — 원자번호 96번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 96번 · Cm] '퀴륨 자색열광 대현자' — 방사능 연구의 개척자 피에르·마리 퀴리 부부를 기려 명명된 초우라늄 원소로, 붕괴열로 스스로 붉게 달아오르며 화성 탐사 로버의 X선 분광기에 쓰였습니다."
   },
   {
     "level": 97,
     "symbol": "Bk",
     "name": "버클륨(Bk)",
     "character_title": "버클륨 사이클로트론 마도사",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 190000000000,
     "image": "assets/elements/lv_097.png",
     "visual_prompt": "Particle-accelerator blue-gold arcanist",
-    "desc": "[원자번호 97번 · Bk] '버클륨 사이클로트론 마도사' — 원자번호 97번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 97번 · Bk] '버클륨 사이클로트론 마도사' — 미국 캘리포니아 버클리 연구소에서 이름을 딴 초우라늄 원소로, 테네신(117번) 등 더 무거운 초중원소를 합성할 때 필수 표적 물질로 사용됩니다."
   },
   {
     "level": 98,
     "symbol": "Cf",
     "name": "캘리포늄(Cf)",
     "character_title": "캘리포늄 중성자 성운술사",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 250000000000,
     "image": "assets/elements/lv_098.png",
     "visual_prompt": "Miniature neutron-star emitter cosmic mage",
-    "desc": "[원자번호 98번 · Cf] '캘리포늄 중성자 성운술사' — 원자번호 98번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 98번 · Cf] '캘리포늄 중성자 성운술사' — 단 1마이크로그램만으로도 매분 수백만 개의 중성자를 방출하는 강력한 초우라늄 원소로, 원자로 초기 시동원 및 지하자원·폭발물 비파괴 탐지에 쓰입니다."
   },
   {
     "level": 99,
     "symbol": "Es",
     "name": "아인슈타이늄(Es)",
     "character_title": "아인슈타이늄 상대성 시공간신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 320000000000,
     "image": "assets/elements/lv_099.png",
     "visual_prompt": "E=mc2 warping spacetime glowing sage",
-    "desc": "[원자번호 99번 · Es] '아인슈타이늄 상대성 시공간신' — 원자번호 99번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 99번 · Es] '아인슈타이늄 상대성 시공간신' — 상대성이론의 알베르트 아인슈타인을 기려 명명된 초우라늄 원소로, 1952년 최초의 수소폭탄 실험('아이비 마이크') 잔해 속에서 처음 발견되었습니다."
   },
   {
     "level": 100,
     "symbol": "Fm",
     "name": "페르뮴(Fm)",
     "character_title": "페르뮴 핵융합 화염군주",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 410000000000,
     "image": "assets/elements/lv_100.png",
     "visual_prompt": "Thermonuclear plasma fireball overlord",
-    "desc": "[원자번호 100번 · Fm] '페르뮴 핵융합 화염군주' — 원자번호 100번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 100번 · Fm] '페르뮴 핵융합 화염군주' — 원자로의 아버지 엔리코 페르미를 기린 100번째 원소로, 중성자 포획만으로 대량 합성할 수 있는 마지막 초우라늄 악티늄족 원소입니다."
   },
   {
     "level": 101,
     "symbol": "Md",
     "name": "멘델레예븀(Md)",
     "character_title": "멘델레예븀 주기율의 대건축가",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 520000000000,
     "image": "assets/elements/lv_101.png",
     "visual_prompt": "Periodic-table floating rune grandmaster",
-    "desc": "[원자번호 101번 · Md] '멘델레예븀 주기율의 대건축가' — 원자번호 101번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 101번 · Md] '멘델레예븀 주기율의 대건축가' — 주기율표의 창시자 드미트리 멘델레예프를 기린 101번째 원소로, 입자가속기에서 원자를 한 개씩 충돌시켜 합성한 최초의 초페르뮴 원소입니다."
   },
   {
     "level": 102,
     "symbol": "No",
     "name": "노벨륨(No)",
     "character_title": "노벨륨 황금다이너마이트 성왕",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 670000000000,
     "image": "assets/elements/lv_102.png",
     "visual_prompt": "Golden medal & plasma blast noble king",
-    "desc": "[원자번호 102번 · No] '노벨륨 황금다이너마이트 성왕' — 원자번호 102번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 102번 · No] '노벨륨 황금다이너마이트 성왕' — 노벨상 제정자 알프레드 노벨을 기려 명명된 102번째 악티늄족 원소로, 다른 악티늄족과 달리 +2가 산화 상태를 선호하는 독특한 화학적 성질을 보입니다."
   },
   {
     "level": 103,
     "symbol": "Lr",
     "name": "로렌슘(Lr)",
     "character_title": "로렌슘 가속기 빛의집행자",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 악티늄족 방사성 원소 (89~103 · Ac~Lr)",
     "points": 860000000000,
     "image": "assets/elements/lv_103.png",
     "visual_prompt": "Relativistic beam-halberd celestial executor",
-    "desc": "[원자번호 103번 · Lr] '로렌슘 가속기 빛의집행자' — 원자번호 103번 악티늄족 초우라늄 원소로, 강렬한 알파·감마선 오라를 방출하는 고에너지 차원 물질입니다."
+    "desc": "[원자번호 103번 · Lr] '로렌슘 가속기 빛의집행자' — 사이클로트론(입자가속기) 발명가 어니스트 로렌스를 기린 악티늄족의 마지막(103번째) 원소로, 상대론적 전자 궤도 효과가 강하게 나타나는 경계 원소입니다."
   },
   {
     "level": 104,
     "symbol": "Rf",
     "name": "러더퍼듐(Rf)",
     "character_title": "러더퍼듐 원자핵 심판관",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 1100000000000,
     "image": "assets/elements/lv_104.png",
     "visual_prompt": "Atomic nucleus golden-ringed inquisitor",
-    "desc": "[원자번호 104번 · Rf] '러더퍼듐 원자핵 심판관' — 원자번호 104번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 104번 · Rf] '러더퍼듐 원자핵 심판관' — 원자핵 모형을 밝힌 어니스트 러더퍼드를 기린 최초의 초악티늄족 초중원소(104번)로, 악티늄족을 넘어 7주기 4족 전이금속의 자리를 여는 원소입니다."
   },
   {
     "level": 105,
     "symbol": "Db",
     "name": "더브늄(Db)",
     "character_title": "더브늄 초중량 빙하거신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 1400000000000,
     "image": "assets/elements/lv_105.png",
     "visual_prompt": "Superheavy cryo-nuclear armored titan",
-    "desc": "[원자번호 105번 · Db] '더브늄 초중량 빙하거신' — 원자번호 105번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 105번 · Db] '더브늄 초중량 빙하거신' — 러시아 핵연구의 중심지 두브나(Dubna)에서 이름을 딴 105번 초중원소로, 중이온 가속기 충돌 실험을 통해 합성되는 고밀도 전이금속입니다."
   },
   {
     "level": 106,
     "symbol": "Sg",
     "name": "시보귬(Sg)",
     "character_title": "시보귬 초우주 원소현자",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 1800000000000,
     "image": "assets/elements/lv_106.png",
     "visual_prompt": "Transuranic galaxy-scroll grand wizard",
-    "desc": "[원자번호 106번 · Sg] '시보귬 초우주 원소현자' — 원자번호 106번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 106번 · Sg] '시보귬 초우주 원소현자' — 수많은 초우라늄 원소를 발견한 글렌 시보그 박사가 생존해 있을 때 유일하게 이름이 헌정된 106번 초중원소로, 텅스텐의 무거운 동족 원소입니다."
   },
   {
     "level": 107,
     "symbol": "Bh",
     "name": "보륨(Bh)",
     "character_title": "보륨 양자궤도 신관왕",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 2300000000000,
     "image": "assets/elements/lv_107.png",
     "visual_prompt": "Quantum orbital electron-ring hierophant",
-    "desc": "[원자번호 107번 · Bh] '보륨 양자궤도 신관왕' — 원자번호 107번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 107번 · Bh] '보륨 양자궤도 신관왕' — 양자역학과 원자 모형의 거장 닐스 보어를 기린 107번 초중원소로, 비스무트에 크로뮴 이온을 저온 융합시켜 탄생한 초단명 원소입니다."
   },
   {
     "level": 108,
     "symbol": "Hs",
     "name": "하슘(Hs)",
     "character_title": "하슘 초밀도 백은성좌왕",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 2900000000000,
     "image": "assets/elements/lv_108.png",
     "visual_prompt": "Ultra-dense silver-blue astral paladin king",
-    "desc": "[원자번호 108번 · Hs] '하슘 초밀도 백은성좌왕' — 원자번호 108번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 108번 · Hs] '하슘 초밀도 백은성좌왕' — 독일 헤센주(Hesse)의 라틴어 이름에서 유래한 108번 초중원소로, 오스뮴의 동족 원소로서 이론상 모든 원소 중 가장 높은 밀도를 가질 것으로 예측됩니다."
   },
   {
     "level": 109,
     "symbol": "Mt",
     "name": "마이트너륨(Mt)",
     "character_title": "마이트너륨 핵분열 발키리여신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 3700000000000,
     "image": "assets/elements/lv_109.png",
     "visual_prompt": "Nuclear-split radiant valkyrie goddess",
-    "desc": "[원자번호 109번 · Mt] '마이트너륨 핵분열 발키리여신' — 원자번호 109번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 109번 · Mt] '마이트너륨 핵분열 발키리여신' — 핵분열 현상을 이론적으로 규명한 여성 물리학자 리제 마이트너를 기린 109번 초중원소로, 강인한 과학자의 정신을 기리는 원소입니다."
   },
   {
     "level": 110,
     "symbol": "Ds",
     "name": "다름슈타튬(Ds)",
     "character_title": "다름슈타튬 이온광선 기갑신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 4800000000000,
     "image": "assets/elements/lv_110.png",
     "visual_prompt": "Heavy-ion beam golden cyber-deity",
-    "desc": "[원자번호 110번 · Ds] '다름슈타튬 이온광선 기갑신' — 원자번호 110번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 110번 · Ds] '다름슈타튬 이온광선 기갑신' — 초중원소 합성의 산실인 독일 다름슈타트 중이온연구소(GSI) 소재지에서 이름을 딴 110번 초중원소로, 백금의 초중량 동족 원소입니다."
   },
   {
     "level": 111,
     "symbol": "Rg",
     "name": "뢴트게늄(Rg)",
     "character_title": "뢴트게늄 엑스선 황금천사",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 6200000000000,
     "image": "assets/elements/lv_111.png",
     "visual_prompt": "X-ray halo golden-winged seraph",
-    "desc": "[원자번호 111번 · Rg] '뢴트게늄 엑스선 황금천사' — 원자번호 111번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 111번 · Rg] '뢴트게늄 엑스선 황금천사' — X선을 최초로 발견해 노벨 물리학상 초대 수상자가 된 빌헬름 뢴트겐을 기린 111번 초중원소로, 금(Au)의 7주기 동족 원소입니다."
   },
   {
     "level": 112,
     "symbol": "Cn",
     "name": "코페르니슘(Cn)",
     "character_title": "코페르니슘 태양계 천동설신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 7900000000000,
     "image": "assets/elements/lv_112.png",
     "visual_prompt": "Heliocentric orbiting-planets cosmic deity",
-    "desc": "[원자번호 112번 · Cn] '코페르니슘 태양계 천동설신' — 원자번호 112번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 112번 · Cn] '코페르니슘 태양계 천동설신' — 지동설을 제창한 천문학자 니콜라우스 코페르니쿠스를 기린 112번 초중원소로, 수은(Hg)의 동족이면서 상온에서 기체에 가까울 만큼 휘발성이 큰 금속입니다."
   },
   {
     "level": 113,
     "symbol": "Nh",
     "name": "니호늄(Nh)",
     "character_title": "니호늄 일출의 태양무사신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 10000000000000,
     "image": "assets/elements/lv_113.png",
     "visual_prompt": "Rising-sun crimson aura samurai deity",
-    "desc": "[원자번호 113번 · Nh] '니호늄 일출의 태양무사신' — 원자번호 113번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 113번 · Nh] '니호늄 일출의 태양무사신' — 일본 이화학연구소(RIKEN)가 아연과 비스무트 충돌로 합성하여 아시아 최초로 명명권을 얻은 113번 초중원소('태양이 떠오르는 땅')입니다."
   },
   {
     "level": 114,
     "symbol": "Fl",
     "name": "플레로븀(Fl)",
     "character_title": "플레로븀 안정의섬 수호신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 13000000000000,
     "image": "assets/elements/lv_114.png",
     "visual_prompt": "Island-of-stability mystical crystal guardian god",
-    "desc": "[원자번호 114번 · Fl] '플레로븀 안정의섬 수호신' — 원자번호 114번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 114번 · Fl] '플레로븀 안정의섬 수호신' — 러시아 플료로프 핵반응 연구소에서 이름을 딴 114번 초중원소로, 핵물리학이 예언한 '안정의 섬(Island of Stability)' 중심부에 위치한 신비의 원소입니다."
   },
   {
     "level": 115,
     "symbol": "Mc",
     "name": "모스코븀(Mc)",
     "character_title": "모스코븀 붉은별 차원군주",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 16000000000000,
     "image": "assets/elements/lv_115.png",
     "visual_prompt": "Crimson star dimensional portal overlord",
-    "desc": "[원자번호 115번 · Mc] '모스코븀 붉은별 차원군주' — 원자번호 115번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 115번 · Mc] '모스코븀 붉은별 차원군주' — 초중원소 공동 연구의 거점인 러시아 모스크바주에서 이름을 딴 115번 초중원소로, decay 사슬을 통해 니호늄(113번)을 생성하며 존재가 입증되었습니다."
   },
   {
     "level": 116,
     "symbol": "Lv",
     "name": "리버모륨(Lv)",
     "character_title": "리버모륨 레이저 핵융합신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 21000000000000,
     "image": "assets/elements/lv_116.png",
     "visual_prompt": "Ignition-laser star-core avatar god",
-    "desc": "[원자번호 116번 · Lv] '리버모륨 레이저 핵융합신' — 원자번호 116번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 116번 · Lv] '리버모륨 레이저 핵융합신' — 미국 로렌스 리버모어 국립연구소에서 이름을 딴 116번 초중원소로, 퀴륨 표적에 칼슘-48 이온 빔을 충돌시켜 합성한 극한의 물질입니다."
   },
   {
     "level": 117,
     "symbol": "Ts",
     "name": "테네신(Ts)",
     "character_title": "테네신 초할로겐 심연마신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 27000000000000,
     "image": "assets/elements/lv_117.png",
     "visual_prompt": "Relativistic dark-violet super-halogen god",
-    "desc": "[원자번호 117번 · Ts] '테네신 초할로겐 심연마신' — 원자번호 117번 초중원소(Superheavy Element)로, 입자 가속기의 극한 충돌 속에서만 탄생하는 전설적인 한계 돌파 원소입니다."
+    "desc": "[원자번호 117번 · Ts] '테네신 초할로겐 심연마신' — 오크리지 국립연구소가 위치한 미국 테네시주에서 이름을 딴 117번 초중원소로, 주기율표 할로겐족(17족)의 최하단에 자리한 초할로겐 원소입니다."
   },
   {
     "level": 118,
     "symbol": "Og",
     "name": "오가네손(Og)",
     "character_title": "오가네손 창세신",
-    "series": "7주기 및 악티늄족 (87~118)",
+    "series": "7주기 초중원소 (104~118 · Rf~Og)",
     "points": 34000000000000,
     "image": "assets/elements/lv_118.png",
     "visual_prompt": "Supreme 118th element rainbow-nebula creator god",
